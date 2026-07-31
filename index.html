@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AutoPneus | Catálogo de Estoque</title>
+  <title>MideaTech | Catálogo de Estoque</title>
   <style>
     /* Reset e Variáveis de Estilo */
     :root {
@@ -279,12 +279,13 @@
       font-size: 1.1rem;
     }
   </style>
+      <link rel="icon" href="icons/iconeAba.png" type="image/png" /> </head>    <link rel="icon" href="icons/iconeAba.png" type="image/png" /> </head>
 </head>
 <body>
 
   <header>
     <div class="header-container">
-      <div class="logo">AUTO<span>PNEUS</span></div>
+      <div class="logo">MideaTech<span>PNEUS</span></div>
       <div>Estoque em Tempo Real</div>
     </div>
   </header>
@@ -417,7 +418,10 @@
                 <span class="price-label">À vista</span>
                 <span class="price-value">${formatarPreco(pneu.preco)}</span>
               </div>
-              <button class="btn-detalhes">Comprar</button>
+              <button class="btn-detalhes"
+                  onclick="comprarWhatsapp('${pneu.marca}', '${pneu.modelo}', '${pneu.medida}')">
+                  Comprar
+              </button>
             </div>
           </div>
         `;
@@ -489,7 +493,21 @@
         `;
       }
     }
+    function comprarWhatsapp(marca, modelo, medida) {
+        const numero = '5547999924952';
 
+        const mensagem =
+    `Olá! Tenho interesse no seguinte pneu:
+
+    Marca: ${marca}
+    Modelo: ${modelo}
+    Medida: ${medida}`;
+
+        window.open(
+            `https://wa.me/${numero}?text=${encodeURIComponent(mensagem)}`,
+            '_blank'
+        );
+    }
     document.addEventListener('DOMContentLoaded', carregarEstoque);
   </script>
 </body>
