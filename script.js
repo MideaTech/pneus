@@ -69,8 +69,10 @@ function renderizarEstoque(pneus) {
     const precoCusto = pneu.preco * 0.77;
     const precoLucro = pneu.preco - precoCusto;
 
+    // Renderiza apenas se o modo interno estiver ativo
     const elementoValoresInternos = modoInternoAtivo 
       ? `
+        <span class="stock-value">Estoque: ${pneu.estoque ?? 0} un.</span>
         <span class="cost-value">Custo: ${formatarPreco(precoCusto)}</span>
         <span class="profit-value">Lucro: ${formatarPreco(precoLucro)}</span>
       ` 
@@ -158,6 +160,26 @@ function alternarModoInterno(ativo) {
   aplicarFiltros();
 }
 
+// Alternar visualização da senha
+function toggleMostrarSenha() {
+  const inputSenha = document.getElementById('input-senha');
+  const btnToggle = document.getElementById('btn-toggle-senha');
+  const iconEyeOpen = document.getElementById('icon-eye-open');
+  const iconEyeClosed = document.getElementById('icon-eye-closed');
+
+  if (inputSenha.type === 'password') {
+    inputSenha.type = 'text';
+    if (iconEyeOpen) iconEyeOpen.classList.add('hidden');
+    if (iconEyeClosed) iconEyeClosed.classList.remove('hidden');
+    if (btnToggle) btnToggle.title = 'Ocultar senha';
+  } else {
+    inputSenha.type = 'password';
+    if (iconEyeOpen) iconEyeOpen.classList.remove('hidden');
+    if (iconEyeClosed) iconEyeClosed.classList.add('hidden');
+    if (btnToggle) btnToggle.title = 'Mostrar senha';
+  }
+}
+
 // Gerenciamento do Modal de Senha
 function abrirModal() {
   const modal = document.getElementById('modal-senha');
@@ -171,6 +193,21 @@ function abrirModal() {
 }
 
 function fecharModal() {
+  const inputSenha = document.getElementById('input-senha');
+  const iconEyeOpen = document.getElementById('icon-eye-open');
+  const iconEyeClosed = document.getElementById('icon-eye-closed');
+  const btnToggle = document.getElementById('btn-toggle-senha');
+
+  // Reseta para o estado inicial oculta ao fechar o modal
+  inputSenha.type = 'password';
+  if (iconEyeOpen && iconEyeClosed) {
+    iconEyeOpen.classList.remove('hidden');
+    iconEyeClosed.classList.add('hidden');
+  }
+  if (btnToggle) {
+    btnToggle.title = 'Mostrar senha';
+  }
+
   document.getElementById('modal-senha').classList.add('hidden');
 }
 
@@ -255,6 +292,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const btnFecharModal = document.getElementById('btn-fechar-modal');
   const formSenha = document.getElementById('form-senha');
   const btnTopo = document.getElementById('btn-topo');
+  const btnToggleSenha = document.getElementById('btn-toggle-senha');
 
   // Alternar Modo Interno / Modal
   btnCadeado.addEventListener('click', () => {
@@ -267,6 +305,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
   btnFecharModal.addEventListener('click', fecharModal);
   formSenha.addEventListener('submit', verificarSenha);
+
+  if (btnToggleSenha) {
+    btnToggleSenha.addEventListener('click', toggleMostrarSenha);
+  }
 
   // Exibir/Ocultar botão Voltar ao Topo durante a rolagem
   window.addEventListener('scroll', () => {

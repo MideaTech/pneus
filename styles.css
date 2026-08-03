@@ -452,3 +452,45 @@ main {
 .btn-secundario:hover {
   background-color: #f3f4f6;
 }
+
+.stock-value {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #2563eb; /* Azul para destacar o estoque */
+  margin-top: 4px;
+}
+
+.input-password-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.input-password-wrapper #input-senha {
+  padding-right: 2.75rem; /* Espaço para o ícone não cobrir a senha */
+}
+
+.btn-toggle-senha {
+  position: absolute;
+  right: 8px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-muted);
+  border-radius: 6px;
+  transition: color 0.2s ease, background-color 0.2s ease;
+}
+
+.btn-toggle-senha:hover {
+  color: var(--text-main);
+  background-color: #f3f4f6;
+}
+
+.btn-toggle-senha svg {
+  display: block;
+}
