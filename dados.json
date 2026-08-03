@@ -3498,5 +3498,15 @@
     "preco": 2616.44,
     "estoque": 35,
     "imagem": "imagens/dplus/d711-tracao-misto.jpg"
+  },
+  {
+    "id": 351,
+    "marca": "ROADWING",
+    "modelo": "C RW-05",
+    "medida": "205/75 R16",
+    "indice": "110/108R",
+    "preco": 374.45,
+    "estoque": 4,
+    "imagem": "imagens/roadwing/c-rw-05.jpg"
   }
 ]
