@@ -66,7 +66,7 @@ function renderizarEstoque(pneus) {
     card.className = 'card';
 
     // Cálculos para o Modo Interno (Custo = 77% do valor de venda | Lucro = 23% restante)
-    const precoCusto = pneu.preco * 0.77;
+    const precoCusto = pneu.preco * 0.8;
     const precoLucro = pneu.preco - precoCusto;
 
     // Renderiza apenas se o modo interno estiver ativo
