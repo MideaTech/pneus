@@ -78,16 +78,24 @@ function renderizarEstoque(pneus) {
       ` 
       : '';
 
-    card.innerHTML = `
-      <div class="card-img-wrapper">
-        <span class="badge-marca">${pneu.marca}</span>
-        <img class="card-img" 
-             src="${pneu.imagem}" 
-             alt="Pneu ${pneu.marca} ${pneu.modelo}" 
-             loading="lazy"
-             onerror="this.onerror=null; this.src='imagens/generic.jpg';">
-      </div>
-      <div class="card-body">
+      card.innerHTML = `
+        <div class="card-img-wrapper">
+          <span class="badge-marca">${pneu.marca}</span>
+          <img class="card-img" 
+              src="${pneu.imagem}" 
+              alt="Pneu ${pneu.marca} ${pneu.modelo}" 
+              loading="lazy"
+              onerror="
+                if (!this.dataset.triedWebp) {
+                  this.dataset.triedWebp = 'true';
+                  this.src = this.src.replace(/\.jpg$/i, '.webp');
+                } else {
+                  this.onerror = null;
+                  this.src = 'imagens/generic.jpg';
+                }
+              ">
+        </div>
+        <div class="card-body">
         <h2 class="card-modelo">${pneu.modelo}</h2>
         <div>
           <span class="card-medida">${pneu.medida} ${pneu.indice || ''}</span>
