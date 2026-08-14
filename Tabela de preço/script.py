@@ -125,7 +125,7 @@ def converter_excel_para_json(caminho_excel, caminho_saida_json):
 
         # Filtro 2: Largura superior a 155mm
         if parsed and parsed["largura"] > 155:
-            preco = float(preco_bruto) * 1.04 / 0.8
+            preco = float(preco_bruto) * 1.03 / 0.8
 
             # Extrai índice de carga/velocidade se disponível (ex: 91V, 95H)
             indice_match = re.search(r"\b(\d{2,3}(/\d{2,3})?[A-Z])\b", desc)

@@ -5,7 +5,7 @@
     "modelo": "SPORT+2",
     "medida": "165/35 R17",
     "indice": "68V",
-    "preco": 302.26,
+    "preco": 299.35,
     "estoque": 74,
     "imagem": "imagens/xbri/sport2.jpg"
   },
@@ -15,7 +15,7 @@
     "modelo": "P10",
     "medida": "165/35 R18",
     "indice": "69V",
-    "preco": 289.65,
+    "preco": 286.86,
     "estoque": 166,
     "imagem": "imagens/blackarrow/p10.jpg"
   },
@@ -25,7 +25,7 @@
     "modelo": "ECOBLUE RY26",
     "medida": "165/40 R16",
     "indice": "73V",
-    "preco": 319.16,
+    "preco": 316.09,
     "estoque": 179,
     "imagem": "imagens/routeway/ecoblue-ry26.jpg"
   },
@@ -35,7 +35,7 @@
     "modelo": "P10",
     "medida": "165/40 R18",
     "indice": "73V",
-    "preco": 301.37,
+    "preco": 298.47,
     "estoque": 533,
     "imagem": "imagens/blackarrow/p10.jpg"
   },
@@ -45,7 +45,7 @@
     "modelo": "CITY DC01",
     "medida": "165/45 R16",
     "indice": "74V",
-    "preco": 299.23,
+    "preco": 296.36,
     "estoque": 48,
     "imagem": "imagens/durable/city-dc01.jpg"
   },
@@ -55,7 +55,7 @@
     "modelo": "CITY DC01",
     "medida": "165/50 R15",
     "indice": "72V",
-    "preco": 257.04,
+    "preco": 254.57,
     "estoque": 18,
     "imagem": "imagens/durable/city-dc01.jpg"
   },
@@ -65,7 +65,7 @@
     "modelo": "RP68",
     "medida": "165/50 R15",
     "indice": "76V",
-    "preco": 243.32,
+    "preco": 240.98,
     "estoque": 211,
     "imagem": "imagens/golden-crown/rp68.jpg"
   },
@@ -75,7 +75,7 @@
     "modelo": "ECOLOGY",
     "medida": "165/60 R14",
     "indice": "75H",
-    "preco": 236.03,
+    "preco": 233.76,
     "estoque": 56,
     "imagem": "imagens/xbri/ecology.jpg"
   },
@@ -85,7 +85,7 @@
     "modelo": "FASTWAY F1",
     "medida": "165/60 R14",
     "indice": "75H",
-    "preco": 274.57,
+    "preco": 271.93,
     "estoque": 21,
     "imagem": "imagens/xbri/fastway-f1.jpg"
   },
@@ -95,7 +95,7 @@
     "modelo": "RW-581",
     "medida": "165/60 R14",
     "indice": "75H",
-    "preco": 206.03,
+    "preco": 204.05,
     "estoque": 1732,
     "imagem": "imagens/roadwing/rw-581.jpg"
   },
@@ -105,7 +105,7 @@
     "modelo": "RW-02",
     "medida": "165/70 R13",
     "indice": "88/86S",
-    "preco": 233.32,
+    "preco": 231.08,
     "estoque": 1120,
     "imagem": "imagens/roadwing/rw-02.jpg"
   },
@@ -115,7 +115,7 @@
     "modelo": "C RW-02",
     "medida": "165/70 R14",
     "indice": "89/87R",
-    "preco": 243.18,
+    "preco": 240.84,
     "estoque": 144,
     "imagem": "imagens/roadwing/c-rw-02.jpg"
   },
@@ -125,7 +125,7 @@
     "modelo": "RP022",
     "medida": "175/55 R16",
     "indice": "80H",
-    "preco": 316.7,
+    "preco": 313.66,
     "estoque": 82,
     "imagem": "imagens/aptany/rp022.jpg"
   },
@@ -135,7 +135,7 @@
     "modelo": "RW-581",
     "medida": "175/60 R13",
     "indice": "77H",
-    "preco": 198.55,
+    "preco": 196.64,
     "estoque": 6101,
     "imagem": "imagens/roadwing/rw-581.jpg"
   },
@@ -145,7 +145,7 @@
     "modelo": "RW-581",
     "medida": "175/60 R14",
     "indice": "79H",
-    "preco": 220.92,
+    "preco": 218.79,
     "estoque": 82,
     "imagem": "imagens/roadwing/rw-581.jpg"
   },
@@ -155,7 +155,7 @@
     "modelo": "PREMIUM F7",
     "medida": "175/65 R14",
     "indice": "82H",
-    "preco": 267.26,
+    "preco": 264.69,
     "estoque": 1287,
     "imagem": "imagens/xbri/premium-f7.jpg"
   },
@@ -165,7 +165,7 @@
     "modelo": "C DK569",
     "medida": "175/65 R14",
     "indice": "90/88T",
-    "preco": 248.18,
+    "preco": 245.79,
     "estoque": 4317,
     "imagem": "imagens/alfamotors/c-dk569.jpg"
   },
@@ -175,7 +175,7 @@
     "modelo": "C RW-02",
     "medida": "175/65 R14",
     "indice": "90/88T",
-    "preco": 248.19,
+    "preco": 245.81,
     "estoque": 538,
     "imagem": "imagens/roadwing/c-rw-02.jpg"
   },
@@ -185,7 +185,7 @@
     "modelo": "FASTWAY C1",
     "medida": "175/65 R15",
     "indice": "84H",
-    "preco": 252.48,
+    "preco": 250.05,
     "estoque": 304,
     "imagem": "imagens/xbri/fastway-c1.jpg"
   },
@@ -195,7 +195,7 @@
     "modelo": "RW-587",
     "medida": "175/70 R13",
     "indice": "82H",
-    "preco": 244.42,
+    "preco": 242.07,
     "estoque": 137,
     "imagem": "imagens/roadwing/rw-587.jpg"
   },
@@ -205,7 +205,7 @@
     "modelo": "CLASSIC",
     "medida": "175/70 R13",
     "indice": "82T",
-    "preco": 261.3,
+    "preco": 258.79,
     "estoque": 80,
     "imagem": "imagens/tornel/classic.jpg"
   },
@@ -215,7 +215,7 @@
     "modelo": "F1000",
     "medida": "175/70 R13",
     "indice": "82T",
-    "preco": 250.71,
+    "preco": 248.3,
     "estoque": 60,
     "imagem": "imagens/fullrun/f1000.jpg"
   },
@@ -225,7 +225,7 @@
     "modelo": "REFLEX RH01",
     "medida": "175/70 R13",
     "indice": "82T",
-    "preco": 259.23,
+    "preco": 256.73,
     "estoque": 4877,
     "imagem": "imagens/ironhead/reflex-rh01.jpg"
   },
@@ -235,7 +235,7 @@
     "modelo": "C P03",
     "medida": "175/70 R13",
     "indice": "90/88T",
-    "preco": 235.76,
+    "preco": 233.49,
     "estoque": 17,
     "imagem": "imagens/blackarrow/c-p03.jpg"
   },
@@ -245,7 +245,7 @@
     "modelo": "PREMIUM F8",
     "medida": "175/70 R14",
     "indice": "84H",
-    "preco": 269.49,
+    "preco": 266.9,
     "estoque": 2263,
     "imagem": "imagens/xbri/premium-f8.jpg"
   },
@@ -255,7 +255,7 @@
     "modelo": "REFLEX RH01",
     "medida": "175/70 R14",
     "indice": "84T",
-    "preco": 261.26,
+    "preco": 258.75,
     "estoque": 2297,
     "imagem": "imagens/ironhead/reflex-rh01.jpg"
   },
@@ -265,7 +265,7 @@
     "modelo": "SL369 A/T- WESTLAKE",
     "medida": "175/70 R14",
     "indice": "84T",
-    "preco": 396.46,
+    "preco": 392.64,
     "estoque": 144,
     "imagem": "imagens/outras/sl369-at--westlake.jpg"
   },
@@ -275,7 +275,7 @@
     "modelo": "CROSSWIND A/T",
     "medida": "175/70 R14",
     "indice": "88H",
-    "preco": 411.64,
+    "preco": 407.68,
     "estoque": 225,
     "imagem": "imagens/linglong/crosswind-at.jpg"
   },
@@ -285,7 +285,7 @@
     "modelo": "RW-02",
     "medida": "175/70 R14",
     "indice": "95/93S",
-    "preco": 247.88,
+    "preco": 245.49,
     "estoque": 300,
     "imagem": "imagens/roadwing/rw-02.jpg"
   },
@@ -295,7 +295,7 @@
     "modelo": "DK558",
     "medida": "175/70 R14",
     "indice": "95/93S",
-    "preco": 252.19,
+    "preco": 249.77,
     "estoque": 114,
     "imagem": "imagens/alfamotors/dk558.jpg"
   },
@@ -305,7 +305,7 @@
     "modelo": "C ROATREK RY28",
     "medida": "175/70 R14",
     "indice": "95/93T",
-    "preco": 251.52,
+    "preco": 249.1,
     "estoque": 77,
     "imagem": "imagens/routeway/c-roatrek-ry28.jpg"
   },
@@ -315,7 +315,7 @@
     "modelo": "C SP01",
     "medida": "175/70 R14",
     "indice": "95/93T",
-    "preco": 253.59,
+    "preco": 251.15,
     "estoque": 259,
     "imagem": "imagens/blackarrow/c-sp01.jpg"
   },
@@ -325,7 +325,7 @@
     "modelo": "FORZA A/T F2",
     "medida": "175/75 R13",
     "indice": "84T",
-    "preco": 284.28,
+    "preco": 281.55,
     "estoque": 2231,
     "imagem": "imagens/xbri/forza-at-f2.jpg"
   },
@@ -335,7 +335,7 @@
     "modelo": "RW-581",
     "medida": "175/75 R13",
     "indice": "84T",
-    "preco": 222.62,
+    "preco": 220.48,
     "estoque": 1662,
     "imagem": "imagens/roadwing/rw-581.jpg"
   },
@@ -345,7 +345,7 @@
     "modelo": "FORWARD",
     "medida": "175/75 R13",
     "indice": "85T",
-    "preco": 220.27,
+    "preco": 218.16,
     "estoque": 26,
     "imagem": "imagens/barbrian/forward.jpg"
   },
@@ -355,7 +355,7 @@
     "modelo": "ECOLOGY",
     "medida": "175/75 R14",
     "indice": "86T",
-    "preco": 337.47,
+    "preco": 334.23,
     "estoque": 19,
     "imagem": "imagens/xbri/ecology.jpg"
   },
@@ -365,7 +365,7 @@
     "modelo": "ENZO B1",
     "medida": "175/75 R14",
     "indice": "86T",
-    "preco": 234.54,
+    "preco": 232.29,
     "estoque": 374,
     "imagem": "imagens/sunset/enzo-b1.jpg"
   },
@@ -375,7 +375,7 @@
     "modelo": "FORZA A/T F2",
     "medida": "175/75 R14",
     "indice": "86T",
-    "preco": 279.28,
+    "preco": 276.59,
     "estoque": 2141,
     "imagem": "imagens/xbri/forza-at-f2.jpg"
   },
@@ -385,7 +385,7 @@
     "modelo": "RW-581",
     "medida": "175/75 R14",
     "indice": "86T",
-    "preco": 227.27,
+    "preco": 225.08,
     "estoque": 4214,
     "imagem": "imagens/roadwing/rw-581.jpg"
   },
@@ -395,7 +395,7 @@
     "modelo": "EUROTRAXX H/P",
     "medida": "175/75 R14",
     "indice": "87T",
-    "preco": 298.53,
+    "preco": 295.66,
     "estoque": 27,
     "imagem": "imagens/landspider/eurotraxx-hp.jpg"
   },
@@ -405,7 +405,7 @@
     "modelo": "FORTE A/T (LB)",
     "medida": "175/75 R14",
     "indice": "88T",
-    "preco": 280.44,
+    "preco": 277.74,
     "estoque": 192,
     "imagem": "imagens/massimo/forte-at-lb.jpg"
   },
@@ -415,7 +415,7 @@
     "modelo": "AT02 A/T",
     "medida": "175/80 R14",
     "indice": "88T",
-    "preco": 347.46,
+    "preco": 344.12,
     "estoque": 24,
     "imagem": "imagens/blackarrow/at02-at.jpg"
   },
@@ -425,7 +425,7 @@
     "modelo": "CROSSWIND A/T",
     "medida": "175/80 R14",
     "indice": "88T",
-    "preco": 323.1,
+    "preco": 319.99,
     "estoque": 384,
     "imagem": "imagens/linglong/crosswind-at.jpg"
   },
@@ -435,7 +435,7 @@
     "modelo": "ECOWING ES31",
     "medida": "175/80 R14",
     "indice": "88T",
-    "preco": 329.84,
+    "preco": 326.67,
     "estoque": 66,
     "imagem": "imagens/kumho/ecowing-es31.jpg"
   },
@@ -445,7 +445,7 @@
     "modelo": "SPORT+2",
     "medida": "185/35 R17",
     "indice": "82V",
-    "preco": 301.34,
+    "preco": 298.44,
     "estoque": 445,
     "imagem": "imagens/xbri/sport2.jpg"
   },
@@ -455,7 +455,7 @@
     "modelo": "GREEN-MAX",
     "medida": "185/35 R18",
     "indice": "81H",
-    "preco": 361.35,
+    "preco": 357.88,
     "estoque": 30,
     "imagem": "imagens/linglong/green-max.jpg"
   },
@@ -465,7 +465,7 @@
     "modelo": "P10",
     "medida": "185/35 R18",
     "indice": "83V",
-    "preco": 351.1,
+    "preco": 347.73,
     "estoque": 36,
     "imagem": "imagens/blackarrow/p10.jpg"
   },
@@ -475,7 +475,7 @@
     "modelo": "RA301",
     "medida": "185/35 R18",
     "indice": "83V",
-    "preco": 389.45,
+    "preco": 385.7,
     "estoque": 38,
     "imagem": "imagens/aptany/ra301.jpg"
   },
@@ -485,7 +485,7 @@
     "modelo": "SPORT+2",
     "medida": "185/40 R17",
     "indice": "78V",
-    "preco": 368.45,
+    "preco": 364.91,
     "estoque": 873,
     "imagem": "imagens/xbri/sport2.jpg"
   },
@@ -495,7 +495,7 @@
     "modelo": "COMFORT II",
     "medida": "185/45 R15",
     "indice": "75V",
-    "preco": 271.89,
+    "preco": 269.28,
     "estoque": 176,
     "imagem": "imagens/lanvigator/comfort-ii.jpg"
   },
@@ -505,7 +505,7 @@
     "modelo": "SPORT+ C1",
     "medida": "185/45 R15",
     "indice": "75V",
-    "preco": 289.97,
+    "preco": 287.18,
     "estoque": 363,
     "imagem": "imagens/xbri/sport-c1.jpg"
   },
@@ -515,7 +515,7 @@
     "modelo": "CITY DC01",
     "medida": "185/55 R15",
     "indice": "82V",
-    "preco": 284.57,
+    "preco": 281.84,
     "estoque": 188,
     "imagem": "imagens/durable/city-dc01.jpg"
   },
@@ -525,7 +525,7 @@
     "modelo": "FASTWAY F1",
     "medida": "185/55 R15",
     "indice": "82V",
-    "preco": 303.51,
+    "preco": 300.6,
     "estoque": 124,
     "imagem": "imagens/xbri/fastway-f1.jpg"
   },
@@ -535,7 +535,7 @@
     "modelo": "FM601",
     "medida": "185/55 R16",
     "indice": "87V",
-    "preco": 301.98,
+    "preco": 299.07,
     "estoque": 19,
     "imagem": "imagens/kpatos/fm601.jpg"
   },
@@ -545,7 +545,7 @@
     "modelo": "SPEEDLINE D2",
     "medida": "185/55 R16",
     "indice": "87V",
-    "preco": 295.96,
+    "preco": 293.11,
     "estoque": 21,
     "imagem": "imagens/aderenza/speedline-d2.jpg"
   },
@@ -555,7 +555,7 @@
     "modelo": "RW-581",
     "medida": "185/60 R14",
     "indice": "82H",
-    "preco": 230.09,
+    "preco": 227.88,
     "estoque": 3732,
     "imagem": "imagens/roadwing/rw-581.jpg"
   },
@@ -565,7 +565,7 @@
     "modelo": "CROSSWIND HP010",
     "medida": "185/60 R15",
     "indice": "84H",
-    "preco": 232.77,
+    "preco": 230.53,
     "estoque": 32,
     "imagem": "imagens/linglong/crosswind-hp010.jpg"
   },
@@ -575,7 +575,7 @@
     "modelo": "FASTWAY",
     "medida": "185/60 R15",
     "indice": "84H",
-    "preco": 253.72,
+    "preco": 251.28,
     "estoque": 156,
     "imagem": "imagens/xbri/fastway.jpg"
   },
@@ -585,7 +585,7 @@
     "modelo": "RW-581",
     "medida": "185/60 R15",
     "indice": "84H",
-    "preco": 223.05,
+    "preco": 220.91,
     "estoque": 945,
     "imagem": "imagens/roadwing/rw-581.jpg"
   },
@@ -595,7 +595,7 @@
     "modelo": "ECOWING ES31",
     "medida": "185/60 R15",
     "indice": "84T",
-    "preco": 341.09,
+    "preco": 337.81,
     "estoque": 308,
     "imagem": "imagens/kumho/ecowing-es31.jpg"
   },
@@ -605,7 +605,7 @@
     "modelo": "C DK569",
     "medida": "185/65 R14",
     "indice": "95/93T",
-    "preco": 271.34,
+    "preco": 268.73,
     "estoque": 21,
     "imagem": "imagens/alfamotors/c-dk569.jpg"
   },
@@ -615,7 +615,7 @@
     "modelo": "ECOWING ES31",
     "medida": "185/65 R15",
     "indice": "88H",
-    "preco": 352.49,
+    "preco": 349.1,
     "estoque": 95,
     "imagem": "imagens/kumho/ecowing-es31.jpg"
   },
@@ -625,7 +625,7 @@
     "modelo": "FASTWAY F1",
     "medida": "185/65 R15",
     "indice": "88H",
-    "preco": 315.34,
+    "preco": 312.31,
     "estoque": 20,
     "imagem": "imagens/xbri/fastway-f1.jpg"
   },
@@ -635,7 +635,7 @@
     "modelo": "RW-581",
     "medida": "185/65 R15",
     "indice": "88H",
-    "preco": 241.49,
+    "preco": 239.17,
     "estoque": 5375,
     "imagem": "imagens/roadwing/rw-581.jpg"
   },
@@ -645,7 +645,7 @@
     "modelo": "REFLEX RH01",
     "medida": "185/70 R14",
     "indice": "88H",
-    "preco": 287.17,
+    "preco": 284.4,
     "estoque": 1250,
     "imagem": "imagens/ironhead/reflex-rh01.jpg"
   },
@@ -655,7 +655,7 @@
     "modelo": "ES31",
     "medida": "185/70 R14",
     "indice": "88T",
-    "preco": 373.08,
+    "preco": 369.5,
     "estoque": 72,
     "imagem": "imagens/kumho/es31.jpg"
   },
@@ -665,7 +665,7 @@
     "modelo": "CARGOPLUS C1",
     "medida": "185/80 R14",
     "indice": "102/100Q",
-    "preco": 349.48,
+    "preco": 346.12,
     "estoque": 38,
     "imagem": "imagens/xbri/cargoplus-c1.jpg"
   },
@@ -675,7 +675,7 @@
     "modelo": "CARGOPLUS 3 (FAIXA BRANCA)",
     "medida": "185/80 R14",
     "indice": "102/100R",
-    "preco": 332.49,
+    "preco": 329.29,
     "estoque": 540,
     "imagem": "imagens/xbri/cargoplus-3-faixa-branca.jpg"
   },
@@ -685,7 +685,7 @@
     "modelo": "ZR P10",
     "medida": "195/35 R18",
     "indice": "88W",
-    "preco": 379.97,
+    "preco": 376.32,
     "estoque": 126,
     "imagem": "imagens/blackarrow/zr-p10.jpg"
   },
@@ -695,7 +695,7 @@
     "modelo": "GREEN-MAX",
     "medida": "195/40 R17",
     "indice": "81V",
-    "preco": 279.03,
+    "preco": 276.35,
     "estoque": 408,
     "imagem": "imagens/linglong/green-max.jpg"
   },
@@ -705,7 +705,7 @@
     "modelo": "ZR FASTDRIVE E1",
     "medida": "195/40 R17",
     "indice": "81W",
-    "preco": 288.15,
+    "preco": 285.38,
     "estoque": 797,
     "imagem": "imagens/xbri/zr-fastdrive-e1.jpg"
   },
@@ -715,7 +715,7 @@
     "modelo": "SPORTRAXX UHP",
     "medida": "195/45 R15",
     "indice": "78V",
-    "preco": 290.12,
+    "preco": 287.33,
     "estoque": 301,
     "imagem": "imagens/landspider/sportraxx-uhp.jpg"
   },
@@ -725,7 +725,7 @@
     "modelo": "SPORT D1",
     "medida": "195/45 R16",
     "indice": "84V",
-    "preco": 285.01,
+    "preco": 282.27,
     "estoque": 18,
     "imagem": "imagens/transmate/sport-d1.jpg"
   },
@@ -735,7 +735,7 @@
     "modelo": "OTTIMA PLUS",
     "medida": "195/45 R16",
     "indice": "84V",
-    "preco": 303.62,
+    "preco": 300.7,
     "estoque": 16,
     "imagem": "imagens/massimo/ottima-plus.jpg"
   },
@@ -745,7 +745,7 @@
     "modelo": "P15A",
     "medida": "195/45 R16",
     "indice": "84V",
-    "preco": 279.54,
+    "preco": 276.86,
     "estoque": 100,
     "imagem": "imagens/blackarrow/p15a.jpg"
   },
@@ -755,7 +755,7 @@
     "modelo": "DK728",
     "medida": "195/50 R16",
     "indice": "84V",
-    "preco": 320.23,
+    "preco": 317.15,
     "estoque": 118,
     "imagem": "imagens/alfamotors/dk728.jpg"
   },
@@ -765,7 +765,7 @@
     "modelo": "PIONEER",
     "medida": "195/50 R16",
     "indice": "84V",
-    "preco": 323.57,
+    "preco": 320.46,
     "estoque": 187,
     "imagem": "imagens/nebula/pioneer.jpg"
   },
@@ -775,7 +775,7 @@
     "modelo": "CONFORT F01",
     "medida": "195/55 R15",
     "indice": "85V",
-    "preco": 295.28,
+    "preco": 292.44,
     "estoque": 1106,
     "imagem": "imagens/durable/confort-f01.jpg"
   },
@@ -785,7 +785,7 @@
     "modelo": "ECOLOGY",
     "medida": "195/55 R15",
     "indice": "85V",
-    "preco": 243.03,
+    "preco": 240.69,
     "estoque": 278,
     "imagem": "imagens/xbri/ecology.jpg"
   },
@@ -795,7 +795,7 @@
     "modelo": "ECSTA HS52",
     "medida": "195/55 R15",
     "indice": "85V",
-    "preco": 380.17,
+    "preco": 376.52,
     "estoque": 25,
     "imagem": "imagens/kumho/ecsta-hs52.jpg"
   },
@@ -805,7 +805,7 @@
     "modelo": "FASTWAY F1",
     "medida": "195/55 R15",
     "indice": "85V",
-    "preco": 311.98,
+    "preco": 308.98,
     "estoque": 22,
     "imagem": "imagens/xbri/fastway-f1.jpg"
   },
@@ -815,7 +815,7 @@
     "modelo": "FASTWAY Y1",
     "medida": "195/55 R15",
     "indice": "85V",
-    "preco": 243.49,
+    "preco": 241.15,
     "estoque": 547,
     "imagem": "imagens/xbri/fastway-y1.jpg"
   },
@@ -825,7 +825,7 @@
     "modelo": "ULTIMAPRO UP1",
     "medida": "195/55 R15",
     "indice": "85V",
-    "preco": 295.2,
+    "preco": 292.36,
     "estoque": 211,
     "imagem": "imagens/delmax/ultimapro-up1.jpg"
   },
@@ -835,7 +835,7 @@
     "modelo": "FASTWAY P5",
     "medida": "195/55 R16",
     "indice": "87V",
-    "preco": 353.11,
+    "preco": 349.72,
     "estoque": 26,
     "imagem": "imagens/xbri/fastway-p5.jpg"
   },
@@ -845,7 +845,7 @@
     "modelo": "RW-581",
     "medida": "195/55 R16",
     "indice": "91V",
-    "preco": 301.62,
+    "preco": 298.72,
     "estoque": 2521,
     "imagem": "imagens/roadwing/rw-581.jpg"
   },
@@ -855,7 +855,7 @@
     "modelo": "FM601",
     "medida": "195/60 R14",
     "indice": "86H",
-    "preco": 319.59,
+    "preco": 316.52,
     "estoque": 90,
     "imagem": "imagens/kpatos/fm601.jpg"
   },
@@ -865,7 +865,7 @@
     "modelo": "ECOLOGY",
     "medida": "195/60 R15",
     "indice": "88H",
-    "preco": 253.56,
+    "preco": 251.12,
     "estoque": 1056,
     "imagem": "imagens/xbri/ecology.jpg"
   },
@@ -875,7 +875,7 @@
     "modelo": "ECOWING ES31",
     "medida": "195/60 R15",
     "indice": "88H",
-    "preco": 383.73,
+    "preco": 380.04,
     "estoque": 129,
     "imagem": "imagens/kumho/ecowing-es31.jpg"
   },
@@ -885,7 +885,7 @@
     "modelo": "FASTWAY F1",
     "medida": "195/60 R15",
     "indice": "88H",
-    "preco": 330.83,
+    "preco": 327.65,
     "estoque": 25,
     "imagem": "imagens/xbri/fastway-f1.jpg"
   },
@@ -895,7 +895,7 @@
     "modelo": "RP68",
     "medida": "195/60 R15",
     "indice": "88H",
-    "preco": 239.36,
+    "preco": 237.06,
     "estoque": 22,
     "imagem": "imagens/golden-crown/rp68.jpg"
   },
@@ -905,7 +905,7 @@
     "modelo": "RW-581",
     "medida": "195/60 R15",
     "indice": "88H",
-    "preco": 233.97,
+    "preco": 231.72,
     "estoque": 2600,
     "imagem": "imagens/roadwing/rw-581.jpg"
   },
@@ -915,7 +915,7 @@
     "modelo": "FM601",
     "medida": "195/65 R15",
     "indice": "91H",
-    "preco": 257.5,
+    "preco": 255.02,
     "estoque": 127,
     "imagem": "imagens/firemax/fm601.jpg"
   },
@@ -925,7 +925,7 @@
     "modelo": "FASTWAY P6",
     "medida": "195/65 R15",
     "indice": "91V",
-    "preco": 320.61,
+    "preco": 317.53,
     "estoque": 20,
     "imagem": "imagens/xbri/fastway-p6.jpg"
   },
@@ -935,7 +935,7 @@
     "modelo": "FM601",
     "medida": "195/65 R15",
     "indice": "91V",
-    "preco": 257.65,
+    "preco": 255.18,
     "estoque": 292,
     "imagem": "imagens/firemax/fm601.jpg"
   },
@@ -945,7 +945,7 @@
     "modelo": "FM601",
     "medida": "195/65 R15",
     "indice": "91V",
-    "preco": 266.87,
+    "preco": 264.3,
     "estoque": 1404,
     "imagem": "imagens/kpatos/fm601.jpg"
   },
@@ -955,7 +955,7 @@
     "modelo": "C RW-05",
     "medida": "195/70 R15",
     "indice": "104/102R",
-    "preco": 336.53,
+    "preco": 333.3,
     "estoque": 254,
     "imagem": "imagens/roadwing/c-rw-05.jpg"
   },
@@ -965,7 +965,7 @@
     "modelo": "C RL108 TRACFORCE",
     "medida": "195/75 R16",
     "indice": "107/105R",
-    "preco": 367.24,
+    "preco": 363.7,
     "estoque": 131,
     "imagem": "imagens/aptany/c-rl108-tracforce.jpg"
   },
@@ -975,7 +975,7 @@
     "modelo": "RL108 TRACFORCE",
     "medida": "195/80 R14",
     "indice": "106/104R",
-    "preco": 337.57,
+    "preco": 334.32,
     "estoque": 229,
     "imagem": "imagens/aptany/rl108-tracforce.jpg"
   },
@@ -985,7 +985,7 @@
     "modelo": "RW-05",
     "medida": "195/80 R14",
     "indice": "106/104R",
-    "preco": 334.53,
+    "preco": 331.31,
     "estoque": 397,
     "imagem": "imagens/roadwing/rw-05.jpg"
   },
@@ -995,7 +995,7 @@
     "modelo": "GREEN-MAX",
     "medida": "205/35 R18",
     "indice": "81H",
-    "preco": 388.04,
+    "preco": 384.31,
     "estoque": 38,
     "imagem": "imagens/linglong/green-max.jpg"
   },
@@ -1005,7 +1005,7 @@
     "modelo": "SPORT+2",
     "medida": "205/35 R20",
     "indice": "84V",
-    "preco": 392.55,
+    "preco": 388.77,
     "estoque": 222,
     "imagem": "imagens/xbri/sport2.jpg"
   },
@@ -1015,7 +1015,7 @@
     "modelo": "FASTWAY C2",
     "medida": "205/40 R17",
     "indice": "84W",
-    "preco": 299.28,
+    "preco": 296.41,
     "estoque": 156,
     "imagem": "imagens/xbri/fastway-c2.jpg"
   },
@@ -1025,7 +1025,7 @@
     "modelo": "ZR OTTIMA PLUS",
     "medida": "205/40 R17",
     "indice": "84W",
-    "preco": 287.83,
+    "preco": 285.06,
     "estoque": 111,
     "imagem": "imagens/massimo/zr-ottima-plus.jpg"
   },
@@ -1035,7 +1035,7 @@
     "modelo": "ZR P03",
     "medida": "205/45 R16",
     "indice": "87W",
-    "preco": 306.08,
+    "preco": 303.14,
     "estoque": 38,
     "imagem": "imagens/blackarrow/zr-p03.jpg"
   },
@@ -1045,7 +1045,7 @@
     "modelo": "ZR P03",
     "medida": "205/45 R17",
     "indice": "88W",
-    "preco": 298.86,
+    "preco": 295.99,
     "estoque": 128,
     "imagem": "imagens/blackarrow/zr-p03.jpg"
   },
@@ -1055,7 +1055,7 @@
     "modelo": "RP68",
     "medida": "205/50 R17",
     "indice": "93V",
-    "preco": 311.75,
+    "preco": 308.75,
     "estoque": 462,
     "imagem": "imagens/golden-crown/rp68.jpg"
   },
@@ -1065,7 +1065,7 @@
     "modelo": "ZR SPORT PLUS F1",
     "medida": "205/50 R17",
     "indice": "93W",
-    "preco": 434.49,
+    "preco": 430.32,
     "estoque": 167,
     "imagem": "imagens/xbri/zr-sport-plus-f1.jpg"
   },
@@ -1075,7 +1075,7 @@
     "modelo": "GREEN-MAX HP010",
     "medida": "205/55 R15",
     "indice": "88V",
-    "preco": 373.94,
+    "preco": 370.34,
     "estoque": 36,
     "imagem": "imagens/linglong/green-max-hp010.jpg"
   },
@@ -1085,7 +1085,7 @@
     "modelo": "FASTWAY",
     "medida": "205/55 R16",
     "indice": "91V",
-    "preco": 283.49,
+    "preco": 280.76,
     "estoque": 1213,
     "imagem": "imagens/xbri/fastway.jpg"
   },
@@ -1095,7 +1095,7 @@
     "modelo": "GREEN-MAX HP010",
     "medida": "205/55 R16",
     "indice": "91V",
-    "preco": 269.63,
+    "preco": 267.04,
     "estoque": 4394,
     "imagem": "imagens/linglong/green-max-hp010.jpg"
   },
@@ -1105,7 +1105,7 @@
     "modelo": "SPORT+2",
     "medida": "205/55 R16",
     "indice": "94W",
-    "preco": 322.31,
+    "preco": 319.21,
     "estoque": 51,
     "imagem": "imagens/xbri/sport2.jpg"
   },
@@ -1115,7 +1115,7 @@
     "modelo": "ZR FM601",
     "medida": "205/55 R16",
     "indice": "91W",
-    "preco": 272.25,
+    "preco": 269.63,
     "estoque": 355,
     "imagem": "imagens/kpatos/zr-fm601.jpg"
   },
@@ -1125,7 +1125,7 @@
     "modelo": "ZR FM601",
     "medida": "205/55 R16",
     "indice": "94W",
-    "preco": 275.52,
+    "preco": 272.87,
     "estoque": 140,
     "imagem": "imagens/firemax/zr-fm601.jpg"
   },
@@ -1135,7 +1135,7 @@
     "modelo": "ZR FM601",
     "medida": "205/55 R16",
     "indice": "94W",
-    "preco": 277.03,
+    "preco": 274.37,
     "estoque": 3167,
     "imagem": "imagens/kpatos/zr-fm601.jpg"
   },
@@ -1145,7 +1145,7 @@
     "modelo": "GREEN-MAX HP010",
     "medida": "205/55 R17",
     "indice": "95V",
-    "preco": 328.61,
+    "preco": 325.45,
     "estoque": 582,
     "imagem": "imagens/linglong/green-max-hp010.jpg"
   },
@@ -1155,7 +1155,7 @@
     "modelo": "ZR ECOWING ES31- KUMHO",
     "medida": "205/55 R17",
     "indice": "91W",
-    "preco": 564.58,
+    "preco": 559.15,
     "estoque": 20,
     "imagem": "imagens/outras/zr-ecowing-es31--kumho.jpg"
   },
@@ -1165,7 +1165,7 @@
     "modelo": "ZR FM601-KPATOS",
     "medida": "205/55 R17",
     "indice": "95W",
-    "preco": 388.87,
+    "preco": 385.13,
     "estoque": 18,
     "imagem": "imagens/outras/zr-fm601-kpatos.jpg"
   },
@@ -1175,7 +1175,7 @@
     "modelo": "ZR P16",
     "medida": "205/55 R17",
     "indice": "95W",
-    "preco": 355.51,
+    "preco": 352.1,
     "estoque": 504,
     "imagem": "imagens/blackarrow/zr-p16.jpg"
   },
@@ -1185,7 +1185,7 @@
     "modelo": "ALL-TERRAIN T/A (LB)",
     "medida": "205/60 R15",
     "indice": "91H",
-    "preco": 383.24,
+    "preco": 379.55,
     "estoque": 181,
     "imagem": "imagens/sunset/all-terrain-ta-lb.jpg"
   },
@@ -1195,7 +1195,7 @@
     "modelo": "AT02 A/T",
     "medida": "205/60 R15",
     "indice": "91H",
-    "preco": 329.16,
+    "preco": 326.0,
     "estoque": 717,
     "imagem": "imagens/blackarrow/at02-at.jpg"
   },
@@ -1205,7 +1205,7 @@
     "modelo": "FORTE A/T (LB)",
     "medida": "205/60 R15",
     "indice": "91H",
-    "preco": 369.45,
+    "preco": 365.89,
     "estoque": 267,
     "imagem": "imagens/massimo/forte-at-lb.jpg"
   },
@@ -1215,7 +1215,7 @@
     "modelo": "FORZA A/T 2",
     "medida": "205/60 R15",
     "indice": "91H",
-    "preco": 386.42,
+    "preco": 382.71,
     "estoque": 187,
     "imagem": "imagens/xbri/forza-at-2.jpg"
   },
@@ -1225,7 +1225,7 @@
     "modelo": "ECOWING ES31",
     "medida": "205/60 R16",
     "indice": "92H",
-    "preco": 440.13,
+    "preco": 435.9,
     "estoque": 102,
     "imagem": "imagens/kumho/ecowing-es31.jpg"
   },
@@ -1235,7 +1235,7 @@
     "modelo": "FORZA A/T 2",
     "medida": "205/60 R16",
     "indice": "92H",
-    "preco": 374.0,
+    "preco": 370.41,
     "estoque": 112,
     "imagem": "imagens/xbri/forza-at-2.jpg"
   },
@@ -1245,7 +1245,7 @@
     "modelo": "FORZA A/T A1",
     "medida": "205/60 R16",
     "indice": "92H",
-    "preco": 362.68,
+    "preco": 359.19,
     "estoque": 159,
     "imagem": "imagens/xbri/forza-at-a1.jpg"
   },
@@ -1255,7 +1255,7 @@
     "modelo": "FORZA A/T C1 (LB)",
     "medida": "205/60 R16",
     "indice": "92H",
-    "preco": 382.51,
+    "preco": 378.83,
     "estoque": 192,
     "imagem": "imagens/xbri/forza-at-c1-lb.jpg"
   },
@@ -1265,7 +1265,7 @@
     "modelo": "RP68",
     "medida": "205/60 R16",
     "indice": "92H",
-    "preco": 302.97,
+    "preco": 300.05,
     "estoque": 206,
     "imagem": "imagens/golden-crown/rp68.jpg"
   },
@@ -1275,7 +1275,7 @@
     "modelo": "RW-581",
     "medida": "205/60 R16",
     "indice": "92H",
-    "preco": 303.12,
+    "preco": 300.2,
     "estoque": 642,
     "imagem": "imagens/roadwing/rw-581.jpg"
   },
@@ -1285,7 +1285,7 @@
     "modelo": "BRUTUS T/A (LB)",
     "medida": "205/60 R16",
     "indice": "92R",
-    "preco": 525.11,
+    "preco": 520.06,
     "estoque": 221,
     "imagem": "imagens/xbri/brutus-ta-lb.jpg"
   },
@@ -1295,7 +1295,7 @@
     "modelo": "AT02 A/T",
     "medida": "205/60 R16",
     "indice": "92V",
-    "preco": 352.78,
+    "preco": 349.39,
     "estoque": 132,
     "imagem": "imagens/blackarrow/at02-at.jpg"
   },
@@ -1305,7 +1305,7 @@
     "modelo": "FASTWAY W1",
     "medida": "205/60 R16",
     "indice": "92V",
-    "preco": 324.07,
+    "preco": 320.96,
     "estoque": 1814,
     "imagem": "imagens/xbri/fastway-w1.jpg"
   },
@@ -1315,7 +1315,7 @@
     "modelo": "RS-ONE",
     "medida": "205/60 R16",
     "indice": "92V",
-    "preco": 351.86,
+    "preco": 348.47,
     "estoque": 25,
     "imagem": "imagens/sunwide/rs-one.jpg"
   },
@@ -1325,7 +1325,7 @@
     "modelo": "FORTE A/T (LB)",
     "medida": "205/60 R16",
     "indice": "96T",
-    "preco": 363.5,
+    "preco": 360.0,
     "estoque": 23,
     "imagem": "imagens/massimo/forte-at-lb.jpg"
   },
@@ -1335,7 +1335,7 @@
     "modelo": "ALL-TERRAIN T/A (LB)",
     "medida": "205/65 R15",
     "indice": "94H",
-    "preco": 421.37,
+    "preco": 417.32,
     "estoque": 210,
     "imagem": "imagens/sunset/all-terrain-ta-lb.jpg"
   },
@@ -1345,7 +1345,7 @@
     "modelo": "AT02 A/T",
     "medida": "205/65 R15",
     "indice": "94H",
-    "preco": 372.5,
+    "preco": 368.92,
     "estoque": 272,
     "imagem": "imagens/blackarrow/at02-at.jpg"
   },
@@ -1355,7 +1355,7 @@
     "modelo": "DK569",
     "medida": "205/65 R15",
     "indice": "94H",
-    "preco": 365.56,
+    "preco": 362.05,
     "estoque": 242,
     "imagem": "imagens/alfamotors/dk569.jpg"
   },
@@ -1365,7 +1365,7 @@
     "modelo": "FORTE A/T (LB)",
     "medida": "205/65 R15",
     "indice": "94H",
-    "preco": 399.62,
+    "preco": 395.77,
     "estoque": 156,
     "imagem": "imagens/massimo/forte-at-lb.jpg"
   },
@@ -1375,7 +1375,7 @@
     "modelo": "FORZA A/T 2",
     "medida": "205/65 R15",
     "indice": "94H",
-    "preco": 400.13,
+    "preco": 396.28,
     "estoque": 705,
     "imagem": "imagens/xbri/forza-at-2.jpg"
   },
@@ -1385,7 +1385,7 @@
     "modelo": "FORZA A/T C1 (LB)",
     "medida": "205/65 R15",
     "indice": "94H",
-    "preco": 415.1,
+    "preco": 411.11,
     "estoque": 23,
     "imagem": "imagens/xbri/forza-at-c1-lb.jpg"
   },
@@ -1395,7 +1395,7 @@
     "modelo": "FASTWAY F1",
     "medida": "205/65 R15",
     "indice": "94V",
-    "preco": 387.46,
+    "preco": 383.74,
     "estoque": 22,
     "imagem": "imagens/xbri/fastway-f1.jpg"
   },
@@ -1405,7 +1405,7 @@
     "modelo": "DK558",
     "medida": "205/65 R16",
     "indice": "95H",
-    "preco": 365.76,
+    "preco": 362.24,
     "estoque": 554,
     "imagem": "imagens/alfamotors/dk558.jpg"
   },
@@ -1415,7 +1415,7 @@
     "modelo": "FASTWAY E1",
     "medida": "205/70 R15",
     "indice": "96H",
-    "preco": 379.61,
+    "preco": 375.96,
     "estoque": 20,
     "imagem": "imagens/xbri/fastway-e1.jpg"
   },
@@ -1425,7 +1425,7 @@
     "modelo": "OPENLAND A/T D2",
     "medida": "205/70 R15",
     "indice": "96H",
-    "preco": 405.33,
+    "preco": 401.43,
     "estoque": 437,
     "imagem": "imagens/aderenza/openland-at-d2.jpg"
   },
@@ -1435,7 +1435,7 @@
     "modelo": "RP68",
     "medida": "205/70 R15",
     "indice": "96H",
-    "preco": 340.59,
+    "preco": 337.32,
     "estoque": 294,
     "imagem": "imagens/golden-crown/rp68.jpg"
   },
@@ -1445,7 +1445,7 @@
     "modelo": "ALL-TERRAIN T/A (LB)",
     "medida": "205/70 R15",
     "indice": "96T",
-    "preco": 462.42,
+    "preco": 457.97,
     "estoque": 172,
     "imagem": "imagens/sunset/all-terrain-ta-lb.jpg"
   },
@@ -1455,7 +1455,7 @@
     "modelo": "CROSSWIND A/T",
     "medida": "205/70 R15",
     "indice": "96T",
-    "preco": 451.77,
+    "preco": 447.42,
     "estoque": 56,
     "imagem": "imagens/linglong/crosswind-at.jpg"
   },
@@ -1465,7 +1465,7 @@
     "modelo": "FORTE A/T (LB)",
     "medida": "205/70 R15",
     "indice": "96T",
-    "preco": 403.05,
+    "preco": 399.17,
     "estoque": 292,
     "imagem": "imagens/massimo/forte-at-lb.jpg"
   },
@@ -1475,7 +1475,7 @@
     "modelo": "ALL-TERRAIN T/A (LB)",
     "medida": "205/70 R15",
     "indice": "96/93S",
-    "preco": 446.99,
+    "preco": 442.69,
     "estoque": 279,
     "imagem": "imagens/sunset/all-terrain-ta-lb.jpg"
   },
@@ -1485,7 +1485,7 @@
     "modelo": "BRUTUS T/A (LB)",
     "medida": "205/70 R15",
     "indice": "102/99Q",
-    "preco": 507.01,
+    "preco": 502.13,
     "estoque": 1726,
     "imagem": "imagens/xbri/brutus-ta-lb.jpg"
   },
@@ -1495,7 +1495,7 @@
     "modelo": "C CARGOPLUS W1",
     "medida": "205/70 R15",
     "indice": "106/104R",
-    "preco": 433.56,
+    "preco": 429.39,
     "estoque": 143,
     "imagem": "imagens/xbri/c-cargoplus-w1.jpg"
   },
@@ -1505,7 +1505,7 @@
     "modelo": "C RW-05",
     "medida": "205/70 R15",
     "indice": "106/104R",
-    "preco": 369.99,
+    "preco": 366.43,
     "estoque": 369,
     "imagem": "imagens/roadwing/c-rw-05.jpg"
   },
@@ -1515,7 +1515,7 @@
     "modelo": "C CARGOPLUS W2",
     "medida": "205/75 R16",
     "indice": "113/111R",
-    "preco": 491.91,
+    "preco": 487.18,
     "estoque": 281,
     "imagem": "imagens/xbri/c-cargoplus-w2.jpg"
   },
@@ -1525,7 +1525,7 @@
     "modelo": "DK218",
     "medida": "205/80 R14",
     "indice": "107/105R",
-    "preco": 431.0,
+    "preco": 426.86,
     "estoque": 38,
     "imagem": "imagens/alfamotors/dk218.jpg"
   },
@@ -1535,7 +1535,7 @@
     "modelo": "CARGOPLUS 3",
     "medida": "205/80 R14",
     "indice": "109/107R",
-    "preco": 484.28,
+    "preco": 479.62,
     "estoque": 171,
     "imagem": "imagens/xbri/cargoplus-3.jpg"
   },
@@ -1545,7 +1545,7 @@
     "modelo": "SPORT+",
     "medida": "215/40 R18",
     "indice": "89W",
-    "preco": 446.8,
+    "preco": 442.5,
     "estoque": 27,
     "imagem": "imagens/xbri/sport.jpg"
   },
@@ -1555,7 +1555,7 @@
     "modelo": "ZR P15A",
     "medida": "215/40 R18",
     "indice": "89W",
-    "preco": 358.46,
+    "preco": 355.01,
     "estoque": 44,
     "imagem": "imagens/blackarrow/zr-p15a.jpg"
   },
@@ -1565,7 +1565,7 @@
     "modelo": "ZR DK798",
     "medida": "215/45 R17",
     "indice": "91W",
-    "preco": 408.89,
+    "preco": 404.96,
     "estoque": 96,
     "imagem": "imagens/alfamotors/zr-dk798.jpg"
   },
@@ -1575,7 +1575,7 @@
     "modelo": "ZR SPORT PLUS F1",
     "medida": "215/45 R17",
     "indice": "91W",
-    "preco": 384.86,
+    "preco": 381.16,
     "estoque": 109,
     "imagem": "imagens/xbri/zr-sport-plus-f1.jpg"
   },
@@ -1585,7 +1585,7 @@
     "modelo": "ZR S2000",
     "medida": "215/45 R18",
     "indice": "93W",
-    "preco": 420.81,
+    "preco": 416.76,
     "estoque": 40,
     "imagem": "imagens/kapsen/zr-s2000.jpg"
   },
@@ -1595,7 +1595,7 @@
     "modelo": "SPORT+2",
     "medida": "215/50 R17",
     "indice": "95W",
-    "preco": 394.91,
+    "preco": 391.11,
     "estoque": 34,
     "imagem": "imagens/xbri/sport2.jpg"
   },
@@ -1605,7 +1605,7 @@
     "modelo": "ZR FASTWAY W2",
     "medida": "215/50 R17",
     "indice": "95W",
-    "preco": 385.73,
+    "preco": 382.02,
     "estoque": 240,
     "imagem": "imagens/xbri/zr-fastway-w2.jpg"
   },
@@ -1615,7 +1615,7 @@
     "modelo": "OTTIMA PLUS",
     "medida": "215/55 R16",
     "indice": "97W",
-    "preco": 350.04,
+    "preco": 346.67,
     "estoque": 45,
     "imagem": "imagens/massimo/ottima-plus.jpg"
   },
@@ -1625,7 +1625,7 @@
     "modelo": "ECOLOGY",
     "medida": "215/55 R17",
     "indice": "94V",
-    "preco": 399.12,
+    "preco": 395.29,
     "estoque": 87,
     "imagem": "imagens/xbri/ecology.jpg"
   },
@@ -1635,7 +1635,7 @@
     "modelo": "ZR P15",
     "medida": "215/55 R17",
     "indice": "94W",
-    "preco": 387.11,
+    "preco": 383.39,
     "estoque": 1128,
     "imagem": "imagens/blackarrow/zr-p15.jpg"
   },
@@ -1645,7 +1645,7 @@
     "modelo": "P15",
     "medida": "215/60 R16",
     "indice": "95V",
-    "preco": 338.15,
+    "preco": 334.9,
     "estoque": 70,
     "imagem": "imagens/blackarrow/p15.jpg"
   },
@@ -1655,7 +1655,7 @@
     "modelo": "FORZA H/T 2",
     "medida": "215/60 R17",
     "indice": "100H",
-    "preco": 477.45,
+    "preco": 472.86,
     "estoque": 126,
     "imagem": "imagens/xbri/forza-ht-2.jpg"
   },
@@ -1665,7 +1665,7 @@
     "modelo": "DK365",
     "medida": "215/60 R17",
     "indice": "96H",
-    "preco": 444.23,
+    "preco": 439.96,
     "estoque": 261,
     "imagem": "imagens/alfamotors/dk365.jpg"
   },
@@ -1675,7 +1675,7 @@
     "modelo": "FORTE A/T (LB)",
     "medida": "215/65 R16",
     "indice": "102H",
-    "preco": 497.25,
+    "preco": 492.47,
     "estoque": 146,
     "imagem": "imagens/massimo/forte-at-lb.jpg"
   },
@@ -1685,7 +1685,7 @@
     "modelo": "CROSSWIND A/T",
     "medida": "215/65 R16",
     "indice": "98T",
-    "preco": 478.02,
+    "preco": 473.42,
     "estoque": 16,
     "imagem": "imagens/linglong/crosswind-at.jpg"
   },
@@ -1695,7 +1695,7 @@
     "modelo": "BRUTUS T/A (LB)",
     "medida": "215/65 R16",
     "indice": "103/100R",
-    "preco": 629.88,
+    "preco": 623.82,
     "estoque": 31,
     "imagem": "imagens/xbri/brutus-ta-lb.jpg"
   },
@@ -1705,7 +1705,7 @@
     "modelo": "ALL-TERRAIN T/A (LB)",
     "medida": "215/65 R16",
     "indice": "103/100S",
-    "preco": 524.75,
+    "preco": 519.71,
     "estoque": 179,
     "imagem": "imagens/sunset/all-terrain-ta-lb.jpg"
   },
@@ -1715,7 +1715,7 @@
     "modelo": "C RW-05",
     "medida": "215/70 R15",
     "indice": "109/107R",
-    "preco": 448.75,
+    "preco": 444.44,
     "estoque": 110,
     "imagem": "imagens/roadwing/c-rw-05.jpg"
   },
@@ -1725,7 +1725,7 @@
     "modelo": "RU025",
     "medida": "215/70 R16",
     "indice": "100H",
-    "preco": 482.29,
+    "preco": 477.65,
     "estoque": 137,
     "imagem": "imagens/aptany/ru025.jpg"
   },
@@ -1735,7 +1735,7 @@
     "modelo": "C FORZA VAN F1",
     "medida": "215/75 R16",
     "indice": "113/111R",
-    "preco": 526.52,
+    "preco": 521.46,
     "estoque": 71,
     "imagem": "imagens/xbri/c-forza-van-f1.jpg"
   },
@@ -1745,7 +1745,7 @@
     "modelo": "ENDURACE RD (TRACAO MISTO)",
     "medida": "215/75 R17.5",
     "indice": "126/124M",
-    "preco": 971.86,
+    "preco": 962.51,
     "estoque": 108,
     "imagem": "imagens/apollo/endurace-rd-tracao-misto.jpg"
   },
@@ -1755,7 +1755,7 @@
     "modelo": "WSR+1 (DIRECIONAL)",
     "medida": "215/75 R17.5",
     "indice": "128/126M",
-    "preco": 668.34,
+    "preco": 661.92,
     "estoque": 242,
     "imagem": "imagens/westlake/wsr1-direcional.jpg"
   },
@@ -1765,7 +1765,7 @@
     "modelo": "KDR01 (TRACAO)",
     "medida": "215/75 R17.5",
     "indice": "126/124L",
-    "preco": 795.99,
+    "preco": 788.33,
     "estoque": 65,
     "imagem": "imagens/kumho/kdr01-tracao.jpg"
   },
@@ -1775,7 +1775,7 @@
     "modelo": "KSR01 (DIRECIONAL)",
     "medida": "215/75 R17.5",
     "indice": "126/124L",
-    "preco": 790.18,
+    "preco": 782.58,
     "estoque": 38,
     "imagem": "imagens/kumho/ksr01-direcional.jpg"
   },
@@ -1785,7 +1785,7 @@
     "modelo": "CM988 (MISTO)",
     "medida": "215/75 R17.5",
     "indice": "135/133J",
-    "preco": 686.31,
+    "preco": 679.71,
     "estoque": 88,
     "imagem": "imagens/westlake/cm988-misto.jpg"
   },
@@ -1795,7 +1795,7 @@
     "modelo": "CR960A (DIRECIONAL)",
     "medida": "215/75 R17.5",
     "indice": "135/133J",
-    "preco": 673.3,
+    "preco": 666.83,
     "estoque": 200,
     "imagem": "imagens/goodride/cr960a-direcional.jpg"
   },
@@ -1805,7 +1805,7 @@
     "modelo": "DSL126 (DIRECIONAL)",
     "medida": "215/75 R17.5",
     "indice": "135/133J",
-    "preco": 737.72,
+    "preco": 730.63,
     "estoque": 24,
     "imagem": "imagens/roadwing/dsl126-direcional.jpg"
   },
@@ -1815,7 +1815,7 @@
     "modelo": "DW111 (DIRECIONAL)",
     "medida": "215/75 R17.5",
     "indice": "135/133J",
-    "preco": 583.44,
+    "preco": 577.83,
     "estoque": 218,
     "imagem": "imagens/roadwing/dw111-direcional.jpg"
   },
@@ -1825,7 +1825,7 @@
     "modelo": "DW628 (TRACAO)",
     "medida": "215/75 R17.5",
     "indice": "135/133J",
-    "preco": 592.12,
+    "preco": 586.42,
     "estoque": 558,
     "imagem": "imagens/roadwing/dw628-tracao.jpg"
   },
@@ -1835,7 +1835,7 @@
     "modelo": "ROBUSTO A2 (TRACAO MISTO)",
     "medida": "215/75 R17.5",
     "indice": "135/133J",
-    "preco": 711.61,
+    "preco": 704.77,
     "estoque": 72,
     "imagem": "imagens/xbri/robusto-a2-tracao-misto.jpg"
   },
@@ -1845,7 +1845,7 @@
     "modelo": "FT68 (TRACAO)",
     "medida": "215/75 R17.5",
     "indice": "135/133J",
-    "preco": 690.64,
+    "preco": 684.0,
     "estoque": 699,
     "imagem": "imagens/fortune/ft68-tracao.jpg"
   },
@@ -1855,7 +1855,7 @@
     "modelo": "CR960A (DIRECIONAL)",
     "medida": "215/75 R17.5",
     "indice": "135/133L",
-    "preco": 622.6,
+    "preco": 616.61,
     "estoque": 212,
     "imagem": "imagens/westlake/cr960a-direcional.jpg"
   },
@@ -1865,7 +1865,7 @@
     "modelo": "GREEN-MAX",
     "medida": "225/30 R20",
     "indice": "85W",
-    "preco": 395.49,
+    "preco": 391.69,
     "estoque": 131,
     "imagem": "imagens/linglong/green-max.jpg"
   },
@@ -1875,7 +1875,7 @@
     "modelo": "ZR RA301 SPORT MACRO",
     "medida": "225/35 R19",
     "indice": "88W",
-    "preco": 418.89,
+    "preco": 414.86,
     "estoque": 181,
     "imagem": "imagens/aptany/zr-ra301-sport-macro.jpg"
   },
@@ -1885,7 +1885,7 @@
     "modelo": "FM601",
     "medida": "225/35 R20",
     "indice": "90W",
-    "preco": 412.55,
+    "preco": 408.59,
     "estoque": 304,
     "imagem": "imagens/firemax/fm601.jpg"
   },
@@ -1895,7 +1895,7 @@
     "modelo": "ZR SPORT+2",
     "medida": "225/35 R20",
     "indice": "90W",
-    "preco": 456.11,
+    "preco": 451.73,
     "estoque": 277,
     "imagem": "imagens/xbri/zr-sport2.jpg"
   },
@@ -1905,7 +1905,7 @@
     "modelo": "ZR OTTIMA PLUS",
     "medida": "225/40 R18",
     "indice": "92W",
-    "preco": 386.83,
+    "preco": 383.11,
     "estoque": 75,
     "imagem": "imagens/massimo/zr-ottima-plus.jpg"
   },
@@ -1915,7 +1915,7 @@
     "modelo": "ZR SPORT PLUS F1",
     "medida": "225/40 R18",
     "indice": "92W",
-    "preco": 414.57,
+    "preco": 410.59,
     "estoque": 75,
     "imagem": "imagens/xbri/zr-sport-plus-f1.jpg"
   },
@@ -1925,7 +1925,7 @@
     "modelo": "ZR OTTIMA PLUS",
     "medida": "225/40 R18",
     "indice": "92Y",
-    "preco": 366.42,
+    "preco": 362.9,
     "estoque": 127,
     "imagem": "imagens/massimo/zr-ottima-plus.jpg"
   },
@@ -1935,7 +1935,7 @@
     "modelo": "ZR FM601",
     "medida": "225/40 R19",
     "indice": "93Y",
-    "preco": 462.32,
+    "preco": 457.88,
     "estoque": 35,
     "imagem": "imagens/kpatos/zr-fm601.jpg"
   },
@@ -1945,7 +1945,7 @@
     "modelo": "RP68",
     "medida": "225/45 R17",
     "indice": "94V",
-    "preco": 306.73,
+    "preco": 303.78,
     "estoque": 86,
     "imagem": "imagens/golden-crown/rp68.jpg"
   },
@@ -1955,7 +1955,7 @@
     "modelo": "ZR ECOWING ES31",
     "medida": "225/45 R17",
     "indice": "91W",
-    "preco": 464.37,
+    "preco": 459.9,
     "estoque": 59,
     "imagem": "imagens/kumho/zr-ecowing-es31.jpg"
   },
@@ -1965,7 +1965,7 @@
     "modelo": "ZR RA302 RUNFLAT",
     "medida": "225/45 R17",
     "indice": "91W",
-    "preco": 580.51,
+    "preco": 574.93,
     "estoque": 26,
     "imagem": "imagens/aptany/zr-ra302-runflat.jpg"
   },
@@ -1975,7 +1975,7 @@
     "modelo": "SOLUS TA21",
     "medida": "225/45 R18",
     "indice": "95V",
-    "preco": 619.58,
+    "preco": 613.62,
     "estoque": 16,
     "imagem": "imagens/kumho/solus-ta21.jpg"
   },
@@ -1985,7 +1985,7 @@
     "modelo": "ZR RS-ONE",
     "medida": "225/45 R18",
     "indice": "95W",
-    "preco": 460.97,
+    "preco": 456.54,
     "estoque": 64,
     "imagem": "imagens/sunwide/zr-rs-one.jpg"
   },
@@ -1995,7 +1995,7 @@
     "modelo": "SPORT+2",
     "medida": "225/50 R17",
     "indice": "98W",
-    "preco": 371.17,
+    "preco": 367.6,
     "estoque": 289,
     "imagem": "imagens/xbri/sport2.jpg"
   },
@@ -2005,7 +2005,7 @@
     "modelo": "ZR RA302 SPORT MACRO RUNFLAT",
     "medida": "225/50 R17",
     "indice": "94W",
-    "preco": 716.58,
+    "preco": 709.69,
     "estoque": 97,
     "imagem": "imagens/aptany/zr-ra302-sport-macro-runflat.jpg"
   },
@@ -2015,7 +2015,7 @@
     "modelo": "ZR SC1",
     "medida": "225/50 R17",
     "indice": "98W",
-    "preco": 431.66,
+    "preco": 427.51,
     "estoque": 84,
     "imagem": "imagens/autogreen/zr-sc1.jpg"
   },
@@ -2025,7 +2025,7 @@
     "modelo": "ZR RA301",
     "medida": "225/55 R17",
     "indice": "101W",
-    "preco": 467.14,
+    "preco": 462.65,
     "estoque": 31,
     "imagem": "imagens/aptany/zr-ra301.jpg"
   },
@@ -2035,7 +2035,7 @@
     "modelo": "CROSSWIND HP010",
     "medida": "225/55 R18",
     "indice": "98H",
-    "preco": 495.79,
+    "preco": 491.02,
     "estoque": 80,
     "imagem": "imagens/linglong/crosswind-hp010.jpg"
   },
@@ -2045,7 +2045,7 @@
     "modelo": "RP68",
     "medida": "225/55 R18",
     "indice": "98V",
-    "preco": 425.88,
+    "preco": 421.79,
     "estoque": 74,
     "imagem": "imagens/golden-crown/rp68.jpg"
   },
@@ -2055,7 +2055,7 @@
     "modelo": "SPORTLINE C2",
     "medida": "225/55 R18",
     "indice": "98V",
-    "preco": 499.12,
+    "preco": 494.32,
     "estoque": 42,
     "imagem": "imagens/xbri/sportline-c2.jpg"
   },
@@ -2065,7 +2065,7 @@
     "modelo": "SPORT+",
     "medida": "225/55 R19",
     "indice": "99V",
-    "preco": 575.8,
+    "preco": 570.27,
     "estoque": 94,
     "imagem": "imagens/xbri/sport.jpg"
   },
@@ -2075,7 +2075,7 @@
     "modelo": "FM518",
     "medida": "225/60 R18",
     "indice": "100H",
-    "preco": 495.83,
+    "preco": 491.06,
     "estoque": 36,
     "imagem": "imagens/kpatos/fm518.jpg"
   },
@@ -2085,7 +2085,7 @@
     "modelo": "ALL-TERRAIN T/A (LB)",
     "medida": "225/60 R18",
     "indice": "104H",
-    "preco": 646.25,
+    "preco": 640.04,
     "estoque": 216,
     "imagem": "imagens/sunset/all-terrain-ta-lb.jpg"
   },
@@ -2095,7 +2095,7 @@
     "modelo": "FORTE A/T (LB)",
     "medida": "225/60 R18",
     "indice": "104T",
-    "preco": 526.29,
+    "preco": 521.23,
     "estoque": 216,
     "imagem": "imagens/massimo/forte-at-lb.jpg"
   },
@@ -2105,7 +2105,7 @@
     "modelo": "BRUTUS T/A (LB)",
     "medida": "225/60 R18",
     "indice": "101/98R",
-    "preco": 646.92,
+    "preco": 640.7,
     "estoque": 582,
     "imagem": "imagens/xbri/brutus-ta-lb.jpg"
   },
@@ -2115,7 +2115,7 @@
     "modelo": "C RL106",
     "medida": "225/65 R16",
     "indice": "112/110R",
-    "preco": 439.81,
+    "preco": 435.58,
     "estoque": 136,
     "imagem": "imagens/aptany/c-rl106.jpg"
   },
@@ -2125,7 +2125,7 @@
     "modelo": "ALL-TERRAIN T/A (LB)",
     "medida": "225/65 R17",
     "indice": "106T",
-    "preco": 576.34,
+    "preco": 570.8,
     "estoque": 92,
     "imagem": "imagens/sunset/all-terrain-ta-lb.jpg"
   },
@@ -2135,7 +2135,7 @@
     "modelo": "CROSSWIND A/T",
     "medida": "225/65 R17",
     "indice": "106T",
-    "preco": 553.34,
+    "preco": 548.02,
     "estoque": 109,
     "imagem": "imagens/linglong/crosswind-at.jpg"
   },
@@ -2145,7 +2145,7 @@
     "modelo": "BRUTUS T/A (LB)",
     "medida": "225/65 R17",
     "indice": "107/103S",
-    "preco": 702.63,
+    "preco": 695.88,
     "estoque": 213,
     "imagem": "imagens/xbri/brutus-ta-lb.jpg"
   },
@@ -2155,7 +2155,7 @@
     "modelo": "C CARGOPLUS W1",
     "medida": "225/70 R15",
     "indice": "112/110R",
-    "preco": 424.51,
+    "preco": 420.43,
     "estoque": 1086,
     "imagem": "imagens/xbri/c-cargoplus-w1.jpg"
   },
@@ -2165,7 +2165,7 @@
     "modelo": "C OVER CARGO B3",
     "medida": "225/70 R15",
     "indice": "112/110R",
-    "preco": 385.89,
+    "preco": 382.18,
     "estoque": 555,
     "imagem": "imagens/sunset/c-over-cargo-b3.jpg"
   },
@@ -2175,7 +2175,7 @@
     "modelo": "FORZA A/T 2",
     "medida": "225/70 R16",
     "indice": "103T",
-    "preco": 600.04,
+    "preco": 594.27,
     "estoque": 48,
     "imagem": "imagens/xbri/forza-at-2.jpg"
   },
@@ -2185,7 +2185,7 @@
     "modelo": "ARGOS H/T",
     "medida": "225/70 R16",
     "indice": "107H",
-    "preco": 493.56,
+    "preco": 488.81,
     "estoque": 224,
     "imagem": "imagens/roadking/argos-ht.jpg"
   },
@@ -2195,7 +2195,7 @@
     "modelo": "CROSSWIND A/T100",
     "medida": "225/75 R15",
     "indice": "102/99S",
-    "preco": 534.11,
+    "preco": 528.98,
     "estoque": 38,
     "imagem": "imagens/linglong/crosswind-at100.jpg"
   },
@@ -2205,7 +2205,7 @@
     "modelo": "BRUTUS T/A (LB)",
     "medida": "225/75 R16",
     "indice": "115/112Q",
-    "preco": 767.7,
+    "preco": 760.31,
     "estoque": 188,
     "imagem": "imagens/xbri/brutus-ta-lb.jpg"
   },
@@ -2215,7 +2215,7 @@
     "modelo": "CROSSWIND M/T",
     "medida": "225/75 R16",
     "indice": "110/107Q",
-    "preco": 713.69,
+    "preco": 706.83,
     "estoque": 21,
     "imagem": "imagens/linglong/crosswind-mt.jpg"
   },
@@ -2225,7 +2225,7 @@
     "modelo": "SUV DK365",
     "medida": "225/75 R16",
     "indice": "104T",
-    "preco": 552.22,
+    "preco": 546.91,
     "estoque": 72,
     "imagem": "imagens/alfamotors/suv-dk365.jpg"
   },
@@ -2235,7 +2235,7 @@
     "modelo": "C CARGOPLUS W1",
     "medida": "225/75 R16",
     "indice": "118/116R",
-    "preco": 630.15,
+    "preco": 624.09,
     "estoque": 318,
     "imagem": "imagens/xbri/c-cargoplus-w1.jpg"
   },
@@ -2245,7 +2245,7 @@
     "modelo": "C OVER CARGO B3",
     "medida": "225/75 R16",
     "indice": "121/120R",
-    "preco": 559.28,
+    "preco": 553.9,
     "estoque": 160,
     "imagem": "imagens/sunset/c-over-cargo-b3.jpg"
   },
@@ -2255,7 +2255,7 @@
     "modelo": "C RW-02",
     "medida": "225/75 R16",
     "indice": "121/120R",
-    "preco": 546.96,
+    "preco": 541.7,
     "estoque": 191,
     "imagem": "imagens/roadwing/c-rw-02.jpg"
   },
@@ -2265,7 +2265,7 @@
     "modelo": "C RW-05",
     "medida": "225/75 R16",
     "indice": "121/120R",
-    "preco": 532.09,
+    "preco": 526.97,
     "estoque": 137,
     "imagem": "imagens/roadwing/c-rw-05.jpg"
   },
@@ -2275,7 +2275,7 @@
     "modelo": "SPORT+ C1",
     "medida": "235/35 R19",
     "indice": "91Y",
-    "preco": 494.27,
+    "preco": 489.52,
     "estoque": 26,
     "imagem": "imagens/xbri/sport-c1.jpg"
   },
@@ -2285,7 +2285,7 @@
     "modelo": "ZR RA301 SPORT MACRO",
     "medida": "235/40 R18",
     "indice": "95W",
-    "preco": 486.96,
+    "preco": 482.28,
     "estoque": 18,
     "imagem": "imagens/aptany/zr-ra301-sport-macro.jpg"
   },
@@ -2295,7 +2295,7 @@
     "modelo": "ZR P16",
     "medida": "235/45 R17",
     "indice": "97W",
-    "preco": 365.51,
+    "preco": 361.99,
     "estoque": 41,
     "imagem": "imagens/blackarrow/zr-p16.jpg"
   },
@@ -2305,7 +2305,7 @@
     "modelo": "ZR RA301 SPORT MACRO",
     "medida": "235/45 R18",
     "indice": "98W",
-    "preco": 527.32,
+    "preco": 522.25,
     "estoque": 20,
     "imagem": "imagens/aptany/zr-ra301-sport-macro.jpg"
   },
@@ -2315,7 +2315,7 @@
     "modelo": "SPORT+",
     "medida": "235/45 R19",
     "indice": "95W",
-    "preco": 499.02,
+    "preco": 494.23,
     "estoque": 318,
     "imagem": "imagens/xbri/sport.jpg"
   },
@@ -2325,7 +2325,7 @@
     "modelo": "ZR RA301 SPORT MACRO",
     "medida": "235/50 R18",
     "indice": "97W",
-    "preco": 528.09,
+    "preco": 523.01,
     "estoque": 296,
     "imagem": "imagens/aptany/zr-ra301-sport-macro.jpg"
   },
@@ -2335,7 +2335,7 @@
     "modelo": "ZR SPORT+2",
     "medida": "235/50 R19",
     "indice": "103W",
-    "preco": 605.68,
+    "preco": 599.86,
     "estoque": 477,
     "imagem": "imagens/xbri/zr-sport2.jpg"
   },
@@ -2345,7 +2345,7 @@
     "modelo": "ULTIMA PLUS",
     "medida": "235/55 R17",
     "indice": "103W",
-    "preco": 425.35,
+    "preco": 421.26,
     "estoque": 296,
     "imagem": "imagens/delmax/ultima-plus.jpg"
   },
@@ -2355,7 +2355,7 @@
     "modelo": "ZR SPORT+2",
     "medida": "235/55 R17",
     "indice": "103W",
-    "preco": 547.17,
+    "preco": 541.91,
     "estoque": 16,
     "imagem": "imagens/xbri/zr-sport2.jpg"
   },
@@ -2365,7 +2365,7 @@
     "modelo": "FORZA H/T W1",
     "medida": "235/55 R18",
     "indice": "104V",
-    "preco": 508.2,
+    "preco": 503.32,
     "estoque": 793,
     "imagem": "imagens/xbri/forza-ht-w1.jpg"
   },
@@ -2375,7 +2375,7 @@
     "modelo": "FORZA H/T F1",
     "medida": "235/60 R16",
     "indice": "100H",
-    "preco": 523.11,
+    "preco": 518.08,
     "estoque": 39,
     "imagem": "imagens/xbri/forza-ht-f1.jpg"
   },
@@ -2385,7 +2385,7 @@
     "modelo": "SPORT CRUISER-SC6",
     "medida": "235/60 R17",
     "indice": "102V",
-    "preco": 532.88,
+    "preco": 527.75,
     "estoque": 16,
     "imagem": "imagens/autogreen/sport-cruiser-sc6.jpg"
   },
@@ -2395,7 +2395,7 @@
     "modelo": "RP68",
     "medida": "235/60 R18",
     "indice": "103H",
-    "preco": 480.2,
+    "preco": 475.58,
     "estoque": 255,
     "imagem": "imagens/golden-crown/rp68.jpg"
   },
@@ -2405,7 +2405,7 @@
     "modelo": "C VAN 916 FM",
     "medida": "235/65 R16",
     "indice": "115/113R",
-    "preco": 473.2,
+    "preco": 468.65,
     "estoque": 60,
     "imagem": "imagens/firemax/c-van-916-fm.jpg"
   },
@@ -2415,7 +2415,7 @@
     "modelo": "FM523 M/T",
     "medida": "235/70 R16",
     "indice": "110/107Q",
-    "preco": 676.28,
+    "preco": 669.78,
     "estoque": 110,
     "imagem": "imagens/firemax/fm523-mt.jpg"
   },
@@ -2425,7 +2425,7 @@
     "modelo": "ALL-TERRAIN T/A",
     "medida": "235/75 R15",
     "indice": "109T",
-    "preco": 522.77,
+    "preco": 517.74,
     "estoque": 39,
     "imagem": "imagens/sunset/all-terrain-ta.jpg"
   },
@@ -2435,7 +2435,7 @@
     "modelo": "DW628 (TRACAO)",
     "medida": "235/75 R17.5",
     "indice": "143/141J",
-    "preco": 702.68,
+    "preco": 695.93,
     "estoque": 24,
     "imagem": "imagens/roadwing/dw628-tracao.jpg"
   },
@@ -2445,7 +2445,7 @@
     "modelo": "ECOWAY P1 (DIRECIONAL)",
     "medida": "235/75 R17.5",
     "indice": "143/141J",
-    "preco": 730.08,
+    "preco": 723.06,
     "estoque": 537,
     "imagem": "imagens/xbri/ecoway-p1-direcional.jpg"
   },
@@ -2455,7 +2455,7 @@
     "modelo": "XFORZA P1 (TRACAO)",
     "medida": "235/75 R17.5",
     "indice": "143/141J",
-    "preco": 789.77,
+    "preco": 782.18,
     "estoque": 413,
     "imagem": "imagens/xbri/xforza-p1-tracao.jpg"
   },
@@ -2465,7 +2465,7 @@
     "modelo": "BRUTUS T/A (LB)",
     "medida": "235/85 R16",
     "indice": "120/116Q",
-    "preco": 870.86,
+    "preco": 862.49,
     "estoque": 66,
     "imagem": "imagens/xbri/brutus-ta-lb.jpg"
   },
@@ -2475,7 +2475,7 @@
     "modelo": "FORZA M/T2",
     "medida": "235/85 R16",
     "indice": "120/116Q",
-    "preco": 799.65,
+    "preco": 791.96,
     "estoque": 20,
     "imagem": "imagens/xbri/forza-mt2.jpg"
   },
@@ -2485,7 +2485,7 @@
     "modelo": "FM601",
     "medida": "245/40 R17",
     "indice": "95W",
-    "preco": 458.77,
+    "preco": 454.36,
     "estoque": 67,
     "imagem": "imagens/kpatos/fm601.jpg"
   },
@@ -2495,7 +2495,7 @@
     "modelo": "Z-108",
     "medida": "245/40 R18",
     "indice": "97W",
-    "preco": 428.38,
+    "preco": 424.26,
     "estoque": 55,
     "imagem": "imagens/westlake/z-108.jpg"
   },
@@ -2505,7 +2505,7 @@
     "modelo": "ZR P15A",
     "medida": "245/40 R20",
     "indice": "99W",
-    "preco": 445.3,
+    "preco": 441.02,
     "estoque": 34,
     "imagem": "imagens/blackarrow/zr-p15a.jpg"
   },
@@ -2515,7 +2515,7 @@
     "modelo": "RP68",
     "medida": "245/45 R18",
     "indice": "100V",
-    "preco": 449.71,
+    "preco": 445.39,
     "estoque": 37,
     "imagem": "imagens/golden-crown/rp68.jpg"
   },
@@ -2525,7 +2525,7 @@
     "modelo": "ZR SPORTRAXX UHP",
     "medida": "245/45 R18",
     "indice": "100Y",
-    "preco": 455.89,
+    "preco": 451.51,
     "estoque": 39,
     "imagem": "imagens/landspider/zr-sportraxx-uhp.jpg"
   },
@@ -2535,7 +2535,7 @@
     "modelo": "SPORT+2",
     "medida": "245/45 R19",
     "indice": "102W",
-    "preco": 638.9,
+    "preco": 632.76,
     "estoque": 273,
     "imagem": "imagens/xbri/sport2.jpg"
   },
@@ -2545,7 +2545,7 @@
     "modelo": "SPORT+ C1",
     "medida": "245/45 R20",
     "indice": "99W",
-    "preco": 575.52,
+    "preco": 569.99,
     "estoque": 21,
     "imagem": "imagens/xbri/sport-c1.jpg"
   },
@@ -2555,7 +2555,7 @@
     "modelo": "FM518",
     "medida": "245/60 R18",
     "indice": "105V",
-    "preco": 582.6,
+    "preco": 577.0,
     "estoque": 128,
     "imagem": "imagens/kpatos/fm518.jpg"
   },
@@ -2565,7 +2565,7 @@
     "modelo": "FORZA H/T F1",
     "medida": "245/70 R16",
     "indice": "107H",
-    "preco": 617.35,
+    "preco": 611.41,
     "estoque": 41,
     "imagem": "imagens/xbri/forza-ht-f1.jpg"
   },
@@ -2575,7 +2575,7 @@
     "modelo": "FORZA A/T C1 (LB)",
     "medida": "245/70 R16",
     "indice": "107T",
-    "preco": 570.64,
+    "preco": 565.15,
     "estoque": 104,
     "imagem": "imagens/xbri/forza-at-c1-lb.jpg"
   },
@@ -2585,7 +2585,7 @@
     "modelo": "FORZA A/T F1",
     "medida": "245/70 R16",
     "indice": "107T",
-    "preco": 649.34,
+    "preco": 643.09,
     "estoque": 213,
     "imagem": "imagens/xbri/forza-at-f1.jpg"
   },
@@ -2595,7 +2595,7 @@
     "modelo": "ALL-TERRAIN T/A (LB)",
     "medida": "245/70 R16",
     "indice": "111H",
-    "preco": 691.07,
+    "preco": 684.42,
     "estoque": 21,
     "imagem": "imagens/sunset/all-terrain-ta-lb.jpg"
   },
@@ -2605,7 +2605,7 @@
     "modelo": "AT52",
     "medida": "245/70 R16",
     "indice": "111T",
-    "preco": 792.25,
+    "preco": 784.64,
     "estoque": 24,
     "imagem": "imagens/kumho/at52.jpg"
   },
@@ -2615,7 +2615,7 @@
     "modelo": "BRUTUS T/A (LB)",
     "medida": "245/70 R16",
     "indice": "113/110S",
-    "preco": 793.89,
+    "preco": 786.25,
     "estoque": 838,
     "imagem": "imagens/xbri/brutus-ta-lb.jpg"
   },
@@ -2625,7 +2625,7 @@
     "modelo": "FORZA H/T F1",
     "medida": "245/75 R16",
     "indice": "111H",
-    "preco": 660.32,
+    "preco": 653.97,
     "estoque": 19,
     "imagem": "imagens/xbri/forza-ht-f1.jpg"
   },
@@ -2635,7 +2635,7 @@
     "modelo": "RW-AT772 A/T",
     "medida": "245/75 R16",
     "indice": "111S",
-    "preco": 519.48,
+    "preco": 514.49,
     "estoque": 39,
     "imagem": "imagens/roadwing/rw-at772-at.jpg"
   },
@@ -2645,7 +2645,7 @@
     "modelo": "TRANSFORTIS MT01",
     "medida": "245/75 R16",
     "indice": "114/111Q",
-    "preco": 680.95,
+    "preco": 674.4,
     "estoque": 76,
     "imagem": "imagens/transmate/transfortis-mt01.jpg"
   },
@@ -2655,7 +2655,7 @@
     "modelo": "SPORT+",
     "medida": "255/45 R19",
     "indice": "100W",
-    "preco": 608.81,
+    "preco": 602.96,
     "estoque": 25,
     "imagem": "imagens/xbri/sport.jpg"
   },
@@ -2665,7 +2665,7 @@
     "modelo": "ZR X-PRIVILO TX3",
     "medida": "255/45 R20",
     "indice": "105Y",
-    "preco": 662.35,
+    "preco": 655.98,
     "estoque": 144,
     "imagem": "imagens/tracmax/zr-x-privilo-tx3.jpg"
   },
@@ -2675,7 +2675,7 @@
     "modelo": "ZR FM601",
     "medida": "255/55 R18",
     "indice": "109W",
-    "preco": 548.85,
+    "preco": 543.58,
     "estoque": 54,
     "imagem": "imagens/kpatos/zr-fm601.jpg"
   },
@@ -2685,7 +2685,7 @@
     "modelo": "FORZA H/T 2",
     "medida": "255/55 R19",
     "indice": "111V",
-    "preco": 650.45,
+    "preco": 644.2,
     "estoque": 70,
     "imagem": "imagens/xbri/forza-ht-2.jpg"
   },
@@ -2695,7 +2695,7 @@
     "modelo": "Z-203",
     "medida": "255/55 R19",
     "indice": "111V",
-    "preco": 535.66,
+    "preco": 530.51,
     "estoque": 77,
     "imagem": "imagens/westlake/z-203.jpg"
   },
@@ -2705,7 +2705,7 @@
     "modelo": "ARGOS H/T",
     "medida": "255/60 R18",
     "indice": "112H",
-    "preco": 585.89,
+    "preco": 580.25,
     "estoque": 15,
     "imagem": "imagens/roadking/argos-ht.jpg"
   },
@@ -2715,7 +2715,7 @@
     "modelo": "FORZA A/T 2",
     "medida": "255/60 R18",
     "indice": "112T",
-    "preco": 723.09,
+    "preco": 716.14,
     "estoque": 60,
     "imagem": "imagens/xbri/forza-at-2.jpg"
   },
@@ -2725,7 +2725,7 @@
     "modelo": "X-PRIVILO H/T",
     "medida": "255/60 R18",
     "indice": "112V",
-    "preco": 620.08,
+    "preco": 614.11,
     "estoque": 19,
     "imagem": "imagens/tracmax/x-privilo-ht.jpg"
   },
@@ -2735,7 +2735,7 @@
     "modelo": "FORZA H/T 2",
     "medida": "255/70 R16",
     "indice": "111H",
-    "preco": 604.49,
+    "preco": 598.67,
     "estoque": 60,
     "imagem": "imagens/xbri/forza-ht-2.jpg"
   },
@@ -2745,7 +2745,7 @@
     "modelo": "BRUTUS T/A (LB)",
     "medida": "255/70 R16",
     "indice": "120/117R",
-    "preco": 814.54,
+    "preco": 806.71,
     "estoque": 140,
     "imagem": "imagens/xbri/brutus-ta-lb.jpg"
   },
@@ -2755,7 +2755,7 @@
     "modelo": "SPORTLINE",
     "medida": "265/40 R22",
     "indice": "106V",
-    "preco": 717.76,
+    "preco": 710.86,
     "estoque": 72,
     "imagem": "imagens/xbri/sportline.jpg"
   },
@@ -2765,7 +2765,7 @@
     "modelo": "ZR P15A",
     "medida": "265/40 R22",
     "indice": "106W",
-    "preco": 643.47,
+    "preco": 637.28,
     "estoque": 138,
     "imagem": "imagens/blackarrow/zr-p15a.jpg"
   },
@@ -2775,7 +2775,7 @@
     "modelo": "RP68",
     "medida": "265/60 R18",
     "indice": "110H",
-    "preco": 552.14,
+    "preco": 546.84,
     "estoque": 64,
     "imagem": "imagens/golden-crown/rp68.jpg"
   },
@@ -2785,7 +2785,7 @@
     "modelo": "BRUTUS T/A (LB)",
     "medida": "265/60 R18",
     "indice": "119/116S",
-    "preco": 947.92,
+    "preco": 938.8,
     "estoque": 617,
     "imagem": "imagens/xbri/brutus-ta-lb.jpg"
   },
@@ -2795,7 +2795,7 @@
     "modelo": "BRUTUS T/A (LB)",
     "medida": "265/60 R19",
     "indice": "119/116R",
-    "preco": 948.01,
+    "preco": 938.9,
     "estoque": 124,
     "imagem": "imagens/xbri/brutus-ta-lb.jpg"
   },
@@ -2805,7 +2805,7 @@
     "modelo": "BRUTUS T/A (LB)",
     "medida": "265/60 R20",
     "indice": "121/118S",
-    "preco": 1268.36,
+    "preco": 1256.16,
     "estoque": 234,
     "imagem": "imagens/xbri/brutus-ta-lb.jpg"
   },
@@ -2815,7 +2815,7 @@
     "modelo": "FORZA H/T 2",
     "medida": "265/65 R17",
     "indice": "112H",
-    "preco": 593.11,
+    "preco": 587.41,
     "estoque": 35,
     "imagem": "imagens/xbri/forza-ht-2.jpg"
   },
@@ -2825,7 +2825,7 @@
     "modelo": "RP68",
     "medida": "265/65 R17",
     "indice": "112H",
-    "preco": 567.43,
+    "preco": 561.97,
     "estoque": 80,
     "imagem": "imagens/golden-crown/rp68.jpg"
   },
@@ -2835,7 +2835,7 @@
     "modelo": "FORTE A/T (LB)",
     "medida": "265/65 R17",
     "indice": "112T",
-    "preco": 676.57,
+    "preco": 670.07,
     "estoque": 80,
     "imagem": "imagens/massimo/forte-at-lb.jpg"
   },
@@ -2845,7 +2845,7 @@
     "modelo": "BRUTUS T/A (LB)",
     "medida": "265/65 R17",
     "indice": "120/117S",
-    "preco": 948.42,
+    "preco": 939.3,
     "estoque": 582,
     "imagem": "imagens/xbri/brutus-ta-lb.jpg"
   },
@@ -2855,7 +2855,7 @@
     "modelo": "SL399 A/T (LB)",
     "medida": "265/65 R18",
     "indice": "114T",
-    "preco": 688.63,
+    "preco": 682.01,
     "estoque": 90,
     "imagem": "imagens/westlake/sl399-at-lb.jpg"
   },
@@ -2865,7 +2865,7 @@
     "modelo": "ALL-TERRAIN T/A (LB)",
     "medida": "265/65 R18",
     "indice": "122/119R",
-    "preco": 827.16,
+    "preco": 819.21,
     "estoque": 71,
     "imagem": "imagens/sunset/all-terrain-ta-lb.jpg"
   },
@@ -2875,7 +2875,7 @@
     "modelo": "BRUTUS T/A (LB)",
     "medida": "265/65 R18",
     "indice": "122/119R",
-    "preco": 1013.9,
+    "preco": 1004.15,
     "estoque": 1002,
     "imagem": "imagens/xbri/brutus-ta-lb.jpg"
   },
@@ -2885,7 +2885,7 @@
     "modelo": "FORZA H/T F1",
     "medida": "265/70 R16",
     "indice": "112H",
-    "preco": 656.65,
+    "preco": 650.34,
     "estoque": 734,
     "imagem": "imagens/xbri/forza-ht-f1.jpg"
   },
@@ -2895,7 +2895,7 @@
     "modelo": "RW-772 H/T",
     "medida": "265/70 R16",
     "indice": "112H",
-    "preco": 572.03,
+    "preco": 566.53,
     "estoque": 148,
     "imagem": "imagens/roadwing/rw-772-ht.jpg"
   },
@@ -2905,7 +2905,7 @@
     "modelo": "ALL-TERRAIN T/A (LB)",
     "medida": "265/70 R16",
     "indice": "112T",
-    "preco": 715.66,
+    "preco": 708.78,
     "estoque": 233,
     "imagem": "imagens/sunset/all-terrain-ta-lb.jpg"
   },
@@ -2915,7 +2915,7 @@
     "modelo": "FORZA A/T 2",
     "medida": "265/70 R16",
     "indice": "112T",
-    "preco": 637.45,
+    "preco": 631.32,
     "estoque": 67,
     "imagem": "imagens/xbri/forza-at-2.jpg"
   },
@@ -2925,7 +2925,7 @@
     "modelo": "FORZA A/T C1 (LB)",
     "medida": "265/70 R16",
     "indice": "112T",
-    "preco": 647.93,
+    "preco": 641.7,
     "estoque": 70,
     "imagem": "imagens/xbri/forza-at-c1-lb.jpg"
   },
@@ -2935,7 +2935,7 @@
     "modelo": "BRUTUS T/A (LB)",
     "medida": "265/70 R16",
     "indice": "121/118S",
-    "preco": 881.96,
+    "preco": 873.47,
     "estoque": 1147,
     "imagem": "imagens/xbri/brutus-ta-lb.jpg"
   },
@@ -2945,7 +2945,7 @@
     "modelo": "BRUTUS T/A II (LB)",
     "medida": "265/70 R16",
     "indice": "121/118S",
-    "preco": 938.03,
+    "preco": 929.01,
     "estoque": 439,
     "imagem": "imagens/xbri/brutus-ta-ii-lb.jpg"
   },
@@ -2955,7 +2955,7 @@
     "modelo": "CROSSWIND M/T",
     "medida": "265/70 R16",
     "indice": "110/107Q",
-    "preco": 789.56,
+    "preco": 781.97,
     "estoque": 26,
     "imagem": "imagens/linglong/crosswind-mt.jpg"
   },
@@ -2965,7 +2965,7 @@
     "modelo": "RU025",
     "medida": "265/70 R17",
     "indice": "115T",
-    "preco": 677.6,
+    "preco": 671.09,
     "estoque": 124,
     "imagem": "imagens/aptany/ru025.jpg"
   },
@@ -2975,7 +2975,7 @@
     "modelo": "FORZA M/T 2 (LB)",
     "medida": "265/70 R17",
     "indice": "121/118Q",
-    "preco": 872.34,
+    "preco": 863.95,
     "estoque": 93,
     "imagem": "imagens/xbri/forza-mt-2-lb.jpg"
   },
@@ -2985,7 +2985,7 @@
     "modelo": "FORZA M/T C1 (LB)",
     "medida": "265/70 R17",
     "indice": "121/118Q",
-    "preco": 847.27,
+    "preco": 839.12,
     "estoque": 64,
     "imagem": "imagens/xbri/forza-mt-c1-lb.jpg"
   },
@@ -2995,7 +2995,7 @@
     "modelo": "BRUTUS T/A (LB)",
     "medida": "265/70 R17",
     "indice": "121/118S",
-    "preco": 960.75,
+    "preco": 951.52,
     "estoque": 543,
     "imagem": "imagens/xbri/brutus-ta-lb.jpg"
   },
@@ -3005,7 +3005,7 @@
     "modelo": "BRUTUS T/A (LB)",
     "medida": "265/70 R18",
     "indice": "124/121R",
-    "preco": 1033.12,
+    "preco": 1023.19,
     "estoque": 252,
     "imagem": "imagens/xbri/brutus-ta-lb.jpg"
   },
@@ -3015,7 +3015,7 @@
     "modelo": "ALL-TERRAIN T/A (LB)",
     "medida": "265/75 R16",
     "indice": "116S",
-    "preco": 773.63,
+    "preco": 766.2,
     "estoque": 15,
     "imagem": "imagens/sunset/all-terrain-ta-lb.jpg"
   },
@@ -3025,7 +3025,7 @@
     "modelo": "FORZA A/T C1 (LB)",
     "medida": "265/75 R16",
     "indice": "116T",
-    "preco": 765.86,
+    "preco": 758.5,
     "estoque": 39,
     "imagem": "imagens/xbri/forza-at-c1-lb.jpg"
   },
@@ -3035,7 +3035,7 @@
     "modelo": "RW-MT772 M/T",
     "medida": "265/75 R16",
     "indice": "123/120Q",
-    "preco": 824.43,
+    "preco": 816.51,
     "estoque": 67,
     "imagem": "imagens/roadwing/rw-mt772-mt.jpg"
   },
@@ -3045,7 +3045,7 @@
     "modelo": "BRUTUS T/A (LB)",
     "medida": "265/75 R16",
     "indice": "123/120R",
-    "preco": 962.88,
+    "preco": 953.63,
     "estoque": 670,
     "imagem": "imagens/xbri/brutus-ta-lb.jpg"
   },
@@ -3055,7 +3055,7 @@
     "modelo": "DK788 A/T",
     "medida": "265/75 R16",
     "indice": "123/120R",
-    "preco": 628.24,
+    "preco": 622.2,
     "estoque": 151,
     "imagem": "imagens/alfamotors/dk788-at.jpg"
   },
@@ -3065,7 +3065,7 @@
     "modelo": "SPORTLINE",
     "medida": "275/55 R20",
     "indice": "117V",
-    "preco": 747.58,
+    "preco": 740.39,
     "estoque": 103,
     "imagem": "imagens/xbri/sportline.jpg"
   },
@@ -3075,7 +3075,7 @@
     "modelo": "FORZA A/T 2",
     "medida": "275/65 R18",
     "indice": "116T",
-    "preco": 806.88,
+    "preco": 799.13,
     "estoque": 102,
     "imagem": "imagens/xbri/forza-at-2.jpg"
   },
@@ -3085,7 +3085,7 @@
     "modelo": "BRUTUS T/A (LB)",
     "medida": "275/65 R18",
     "indice": "123/120R",
-    "preco": 1056.58,
+    "preco": 1046.42,
     "estoque": 668,
     "imagem": "imagens/xbri/brutus-ta-lb.jpg"
   },
@@ -3095,7 +3095,7 @@
     "modelo": "ALL-TERRAIN T/A (LB)",
     "medida": "275/70 R17",
     "indice": "121/118S",
-    "preco": 847.82,
+    "preco": 839.66,
     "estoque": 98,
     "imagem": "imagens/sunset/all-terrain-ta-lb.jpg"
   },
@@ -3105,7 +3105,7 @@
     "modelo": "ECOPLUS A1 (DIRECIONAL)",
     "medida": "275/70 R22.5",
     "indice": "150/148M",
-    "preco": 1594.97,
+    "preco": 1579.63,
     "estoque": 320,
     "imagem": "imagens/xbri/ecoplus-a1-direcional.jpg"
   },
@@ -3115,7 +3115,7 @@
     "modelo": "ENDUTRAX MD (TRACAO MISTO)",
     "medida": "275/80 R22.5",
     "indice": "149/146K",
-    "preco": 2435.09,
+    "preco": 2411.67,
     "estoque": 44,
     "imagem": "imagens/apollo/endutrax-md-tracao-misto.jpg"
   },
@@ -3125,7 +3125,7 @@
     "modelo": "MIX WORKS P1 (DIRECIONAL MISTO)",
     "medida": "275/80 R22.5",
     "indice": "149/146K",
-    "preco": 1794.55,
+    "preco": 1777.3,
     "estoque": 41,
     "imagem": "imagens/xbri/mix-works-p1-direcional-misto.jpg"
   },
@@ -3135,7 +3135,7 @@
     "modelo": "DR623 (TRACAO)",
     "medida": "275/80 R22.5",
     "indice": "149/146M",
-    "preco": 1785.56,
+    "preco": 1768.4,
     "estoque": 44,
     "imagem": "imagens/durable/dr623-tracao.jpg"
   },
@@ -3145,7 +3145,7 @@
     "modelo": "DR877 (DIRECIONAL MISTO)",
     "medida": "275/80 R22.5",
     "indice": "149/146M",
-    "preco": 1908.14,
+    "preco": 1889.79,
     "estoque": 18,
     "imagem": "imagens/durable/dr877-direcional-misto.jpg"
   },
@@ -3155,7 +3155,7 @@
     "modelo": "HF768 (TRACAO MISTO)",
     "medida": "275/80 R22.5",
     "indice": "149/146K",
-    "preco": 1662.02,
+    "preco": 1646.04,
     "estoque": 248,
     "imagem": "imagens/sunfull/hf768-tracao-misto.jpg"
   },
@@ -3165,7 +3165,7 @@
     "modelo": "MA40A (DIRECIONAL MISTO)",
     "medida": "275/80 R22.5",
     "indice": "149/146K",
-    "preco": 1703.74,
+    "preco": 1687.36,
     "estoque": 55,
     "imagem": "imagens/linglong/ma40a-direcional-misto.jpg"
   },
@@ -3175,7 +3175,7 @@
     "modelo": "GL283A (DIRECIONAL)",
     "medida": "275/80 R22.5",
     "indice": "149/146L",
-    "preco": 1438.01,
+    "preco": 1424.18,
     "estoque": 149,
     "imagem": "imagens/samson/gl283a-direcional.jpg"
   },
@@ -3185,7 +3185,7 @@
     "modelo": "ROBUSTO B6 (TRACAO)",
     "medida": "275/80 R22.5",
     "indice": "149/146L",
-    "preco": 1754.57,
+    "preco": 1737.69,
     "estoque": 308,
     "imagem": "imagens/xbri/robusto-b6-tracao.jpg"
   },
@@ -3195,7 +3195,7 @@
     "modelo": "RSHF356 (TRACAO)",
     "medida": "275/80 R22.5",
     "indice": "149/146L",
-    "preco": 1590.47,
+    "preco": 1575.18,
     "estoque": 25,
     "imagem": "imagens/sunfull/rshf356-tracao.jpg"
   },
@@ -3205,7 +3205,7 @@
     "modelo": "RSHF572 (DIRECIONAL MISTO)",
     "medida": "275/80 R22.5",
     "indice": "149/146L",
-    "preco": 1547.51,
+    "preco": 1532.63,
     "estoque": 556,
     "imagem": "imagens/sunfull/rshf572-direcional-misto.jpg"
   },
@@ -3215,7 +3215,7 @@
     "modelo": "RSHF162+ (DIRECIONAL)",
     "medida": "275/80 R22.5",
     "indice": "149/146M",
-    "preco": 1475.08,
+    "preco": 1460.9,
     "estoque": 144,
     "imagem": "imagens/sunfull/rshf162-direcional.jpg"
   },
@@ -3225,7 +3225,7 @@
     "modelo": "ZR SPORTLINE",
     "medida": "285/35 R22",
     "indice": "106W",
-    "preco": 653.18,
+    "preco": 646.9,
     "estoque": 59,
     "imagem": "imagens/xbri/zr-sportline.jpg"
   },
@@ -3235,7 +3235,7 @@
     "modelo": "ALL-TERRAIN T/A (LB)",
     "medida": "285/50 R20",
     "indice": "116H",
-    "preco": 902.04,
+    "preco": 893.36,
     "estoque": 61,
     "imagem": "imagens/sunset/all-terrain-ta-lb.jpg"
   },
@@ -3245,7 +3245,7 @@
     "modelo": "ALL-TERRAIN T/A (LB)",
     "medida": "285/65 R18",
     "indice": "125/122R",
-    "preco": 814.67,
+    "preco": 806.83,
     "estoque": 49,
     "imagem": "imagens/sunset/all-terrain-ta-lb.jpg"
   },
@@ -3255,7 +3255,7 @@
     "modelo": "BRUTUS T/A (LB)",
     "medida": "285/65 R18",
     "indice": "125/122R",
-    "preco": 1101.21,
+    "preco": 1090.62,
     "estoque": 614,
     "imagem": "imagens/xbri/brutus-ta-lb.jpg"
   },
@@ -3265,7 +3265,7 @@
     "modelo": "BRUTUS T/A (LB)",
     "medida": "285/70 R17",
     "indice": "121/118R",
-    "preco": 1042.79,
+    "preco": 1032.76,
     "estoque": 552,
     "imagem": "imagens/xbri/brutus-ta-lb.jpg"
   },
@@ -3275,7 +3275,7 @@
     "modelo": "ALL-TERRAIN T/A (LB)",
     "medida": "285/70 R17",
     "indice": "121/118S",
-    "preco": 881.62,
+    "preco": 873.15,
     "estoque": 68,
     "imagem": "imagens/sunset/all-terrain-ta-lb.jpg"
   },
@@ -3285,7 +3285,7 @@
     "modelo": "FORZA M/T 2 (LB)",
     "medida": "285/70 R17",
     "indice": "121/118Q",
-    "preco": 1042.37,
+    "preco": 1032.35,
     "estoque": 128,
     "imagem": "imagens/xbri/forza-mt-2-lb.jpg"
   },
@@ -3295,7 +3295,7 @@
     "modelo": "BRUTUS T/A (LB)",
     "medida": "285/75 R16",
     "indice": "126/123R",
-    "preco": 1084.44,
+    "preco": 1074.01,
     "estoque": 323,
     "imagem": "imagens/xbri/brutus-ta-lb.jpg"
   },
@@ -3305,7 +3305,7 @@
     "modelo": "RW-AT772 A/T",
     "medida": "285/75 R16",
     "indice": "126/123R",
-    "preco": 879.9,
+    "preco": 871.44,
     "estoque": 17,
     "imagem": "imagens/roadwing/rw-at772-at.jpg"
   },
@@ -3315,7 +3315,7 @@
     "modelo": "BRUTUS T/A (LB)",
     "medida": "285/75 R17",
     "indice": "121/118S",
-    "preco": 1150.31,
+    "preco": 1139.25,
     "estoque": 44,
     "imagem": "imagens/xbri/brutus-ta-lb.jpg"
   },
@@ -3325,7 +3325,7 @@
     "modelo": "ENDURACE RA2 (DIRECIONAL)",
     "medida": "295/80 R22.5",
     "indice": "152/148M",
-    "preco": 2350.65,
+    "preco": 2328.05,
     "estoque": 73,
     "imagem": "imagens/apollo/endurace-ra2-direcional.jpg"
   },
@@ -3335,7 +3335,7 @@
     "modelo": "ENDUTRAX MA (DIRECIONAL MISTO)",
     "medida": "295/80 R22.5",
     "indice": "154/149K",
-    "preco": 2556.53,
+    "preco": 2531.95,
     "estoque": 19,
     "imagem": "imagens/apollo/endutrax-ma-direcional-misto.jpg"
   },
@@ -3345,7 +3345,7 @@
     "modelo": "ECOPLUS (DIRECIONAL)",
     "medida": "295/80 R22.5",
     "indice": "150/147M",
-    "preco": 1652.02,
+    "preco": 1636.13,
     "estoque": 1279,
     "imagem": "imagens/xbri/ecoplus-direcional.jpg"
   },
@@ -3355,7 +3355,7 @@
     "modelo": "FORZA BLOCK P1 (TRACAO MISTO)",
     "medida": "295/80 R22.5",
     "indice": "152/149J",
-    "preco": 2012.8,
+    "preco": 1993.44,
     "estoque": 338,
     "imagem": "imagens/xbri/forza-block-p1-tracao-misto.jpg"
   },
@@ -3365,7 +3365,7 @@
     "modelo": "HF768 (TRACAO MISTO)",
     "medida": "295/80 R22.5",
     "indice": "152/149K",
-    "preco": 1921.04,
+    "preco": 1902.57,
     "estoque": 229,
     "imagem": "imagens/sunfull/hf768-tracao-misto.jpg"
   },
@@ -3375,7 +3375,7 @@
     "modelo": "AZ183 (DIRECIONAL MISTO)",
     "medida": "295/80 R22.5",
     "indice": "152/149L",
-    "preco": 1798.3,
+    "preco": 1781.01,
     "estoque": 101,
     "imagem": "imagens/golden-crown/az183-direcional-misto.jpg"
   },
@@ -3385,7 +3385,7 @@
     "modelo": "CURVE PLUS F1 (DIRECIONAL)",
     "medida": "295/80 R22.5",
     "indice": "152/149L",
-    "preco": 2040.09,
+    "preco": 2020.48,
     "estoque": 361,
     "imagem": "imagens/xbri/curve-plus-f1-direcional.jpg"
   },
@@ -3395,7 +3395,7 @@
     "modelo": "ECOMIX P2 (DIRECIONAL MISTO)",
     "medida": "295/80 R22.5",
     "indice": "152/149L",
-    "preco": 1835.31,
+    "preco": 1817.67,
     "estoque": 51,
     "imagem": "imagens/xbri/ecomix-p2-direcional-misto.jpg"
   },
@@ -3405,7 +3405,7 @@
     "modelo": "FORZA PLUS F1 (TRACAO)",
     "medida": "295/80 R22.5",
     "indice": "152/149L",
-    "preco": 2166.25,
+    "preco": 2145.42,
     "estoque": 269,
     "imagem": "imagens/xbri/forza-plus-f1-tracao.jpg"
   },
@@ -3415,7 +3415,7 @@
     "modelo": "AT196 (DIRECIONAL)",
     "medida": "295/80 R22.5",
     "indice": "152/149M",
-    "preco": 1576.43,
+    "preco": 1561.27,
     "estoque": 113,
     "imagem": "imagens/ni-pon/at196-direcional.jpg"
   },
@@ -3425,7 +3425,7 @@
     "modelo": "HF326 (TRACAO)",
     "medida": "295/80 R22.5",
     "indice": "152/149M",
-    "preco": 1749.42,
+    "preco": 1732.6,
     "estoque": 220,
     "imagem": "imagens/sunfull/hf326-tracao.jpg"
   },
@@ -3435,7 +3435,7 @@
     "modelo": "HF628 (TRACAO)",
     "medida": "295/80 R22.5",
     "indice": "152/149M",
-    "preco": 1820.67,
+    "preco": 1803.16,
     "estoque": 110,
     "imagem": "imagens/sunfull/hf628-tracao.jpg"
   },
@@ -3445,7 +3445,7 @@
     "modelo": "NEO CURVE P1 (DIRECIONAL)",
     "medida": "295/80 R22.5",
     "indice": "152/149M",
-    "preco": 1910.31,
+    "preco": 1891.94,
     "estoque": 616,
     "imagem": "imagens/xbri/neo-curve-p1-direcional.jpg"
   },
@@ -3455,7 +3455,7 @@
     "modelo": "XCURVE (DIRECIONAL)",
     "medida": "295/80 R22.5",
     "indice": "152/149M",
-    "preco": 2066.01,
+    "preco": 2046.14,
     "estoque": 153,
     "imagem": "imagens/xbri/xcurve-direcional.jpg"
   },
@@ -3465,7 +3465,7 @@
     "modelo": "MIX WORKS A1 (DIRECIONAL MISTO)",
     "medida": "295/80 R22.5",
     "indice": "154/149K",
-    "preco": 1862.23,
+    "preco": 1844.32,
     "estoque": 124,
     "imagem": "imagens/xbri/mix-works-a1-direcional-misto.jpg"
   },
@@ -3475,7 +3475,7 @@
     "modelo": "IFR265 (DIRECIONAL)",
     "medida": "295/80 R22.5",
     "indice": "154/149M",
-    "preco": 1872.05,
+    "preco": 1854.05,
     "estoque": 27,
     "imagem": "imagens/ironhead/ifr265-direcional.jpg"
   },
@@ -3485,7 +3485,7 @@
     "modelo": "ECOPLUS P2 (DIRECIONAL)",
     "medida": "295/80 R22.5",
     "indice": "154/152M",
-    "preco": 1721.55,
+    "preco": 1705.0,
     "estoque": 190,
     "imagem": "imagens/xbri/ecoplus-p2-direcional.jpg"
   },
@@ -3495,18 +3495,8 @@
     "modelo": "D711 (TRACAO MISTO)",
     "medida": "385/65 R22.5",
     "indice": "",
-    "preco": 2616.44,
+    "preco": 2591.28,
     "estoque": 35,
     "imagem": "imagens/dplus/d711-tracao-misto.jpg"
-  },
-  {
-    "id": 351,
-    "marca": "ROADWING",
-    "modelo": "C RW-05",
-    "medida": "205/75 R16",
-    "indice": "110/108R",
-    "preco": 374.45,
-    "estoque": 4,
-    "imagem": "imagens/roadwing/c-rw-05.jpg"
   }
 ]
