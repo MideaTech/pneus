@@ -81,14 +81,16 @@ function renderizarEstoque(pneus) {
       card.innerHTML = `
         <div class="card-img-wrapper">
           <span class="badge-marca">${pneu.marca}</span>
-          <img class="card-img" 
-              src="${pneu.imagem}" 
-              alt="Pneu ${pneu.marca} ${pneu.modelo}" 
+          <img class="card-img"
+              src="${pneu.imagem}"
+              alt="Pneu ${pneu.marca} ${pneu.modelo}"
               loading="lazy"
               onerror="
-                if (!this.dataset.triedWebp) {
-                  this.dataset.triedWebp = 'true';
-                  this.src = this.src.replace(/\.jpg$/i, '.webp');
+                const ext = ['.jpg','.webp','.png','.jfif'];
+                const i = +(this.dataset.i || 0);
+                if (i < ext.length) {
+                  this.dataset.i = i + 1;
+                  this.src = this.src.replace(/\.[^/.]+$/i, ext[i]);
                 } else {
                   this.onerror = null;
                   this.src = 'imagens/generic.jpg';
