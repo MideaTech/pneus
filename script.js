@@ -51,7 +51,6 @@ function preencherSelect(elementId, opcoes) {
   });
 }
 
-// Renderiza a lista de pneus no HTML
 function renderizarEstoque(pneus) {
   const container = document.getElementById('grid-pneus');
   container.innerHTML = '';
@@ -65,11 +64,15 @@ function renderizarEstoque(pneus) {
     const card = document.createElement('div');
     card.className = 'card';
 
-    // Cálculos para o Modo Interno (Custo = 77% do valor de venda | Lucro = 23% restante)
+    // Cálculos dos combos
+    const precoUnitario = pneu.preco;
+    const preco2Pneus = (precoUnitario * 2) * 0.975; // 2,5% OFF
+    const preco4Pneus = (precoUnitario * 4) * 0.95;  // 5% OFF
+
+    // Cálculos para o Modo Interno
     const precoCusto = pneu.preco * 0.8;
     const precoLucro = pneu.preco - precoCusto;
 
-    // Renderiza apenas se o modo interno estiver ativo
     const elementoValoresInternos = modoInternoAtivo 
       ? `
         <span class="stock-value">Estoque: ${pneu.estoque ?? 0} un.</span>
@@ -78,26 +81,26 @@ function renderizarEstoque(pneus) {
       ` 
       : '';
 
-      card.innerHTML = `
-        <div class="card-img-wrapper">
-          <span class="badge-marca">${pneu.marca}</span>
-          <img class="card-img"
-              src="${pneu.imagem}"
-              alt="Pneu ${pneu.marca} ${pneu.modelo}"
-              loading="lazy"
-              onerror="
-                const ext = ['.jpg','.webp','.png','.jfif'];
-                const i = +(this.dataset.i || 0);
-                if (i < ext.length) {
-                  this.dataset.i = i + 1;
-                  this.src = this.src.replace(/\.[^/.]+$/i, ext[i]);
-                } else {
-                  this.onerror = null;
-                  this.src = 'imagens/generic.jpg';
-                }
-              ">
-        </div>
-        <div class="card-body">
+    card.innerHTML = `
+      <div class="card-img-wrapper">
+        <span class="badge-marca">${pneu.marca}</span>
+        <img class="card-img"
+            src="${pneu.imagem}"
+            alt="Pneu ${pneu.marca} ${pneu.modelo}"
+            loading="lazy"
+            onerror="
+              const ext = ['.jpg','.webp','.png','.jfif','.jpeg'];
+              const i = +(this.dataset.i || 0);
+              if (i < ext.length) {
+                this.dataset.i = i + 1;
+                this.src = this.src.replace(/\.[^/.]+$/i, ext[i]);
+              } else {
+                this.onerror = null;
+                this.src = 'imagens/generic.jpg';
+              }
+            ">
+      </div>
+      <div class="card-body">
         <h2 class="card-modelo">${pneu.modelo}</h2>
         <div>
           <span class="card-medida">${pneu.medida} ${pneu.indice || ''}</span>
@@ -105,7 +108,31 @@ function renderizarEstoque(pneus) {
         <div class="card-footer">
           <div class="price-container">
             <span class="price-label">À vista</span>
-            <span class="price-value">${formatarPreco(pneu.preco)}</span>
+            
+            <!-- 1 Pneu -->
+            <div class="price-row">
+              <div class="icon-box">
+                <img src="imagens/pneu-1.svg" alt="1 Pneu" class="tire-icon-img">
+              </div>
+              <span class="price-value">${formatarPreco(precoUnitario)}</span>
+            </div>
+
+            <!-- 2 Pneus -->
+            <div class="price-row promo-row">
+              <div class="icon-box">
+                <img src="imagens/pneu-2.svg" alt="2 Pneus" class="tire-icon-img">
+              </div>
+              <span class="promo-price">${formatarPreco(preco2Pneus)}</span>
+            </div>
+
+            <!-- 4 Pneus -->
+            <div class="price-row promo-row">
+              <div class="icon-box">
+                <img src="imagens/pneu-4.svg" alt="4 Pneus" class="tire-icon-img">
+              </div>
+              <span class="promo-price">${formatarPreco(preco4Pneus)}</span>
+            </div>
+
             ${elementoValoresInternos}
           </div>
           <button class="btn-detalhes"
