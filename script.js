@@ -64,10 +64,10 @@ function renderizarEstoque(pneus) {
     const card = document.createElement('div');
     card.className = 'card';
 
-    // Cálculos dos combos
+    // Cálculos dos preços unitários de cada kit (Atacado por unidade)
     const precoUnitario = pneu.preco;
-    const preco2Pneus = (precoUnitario * 2) * 0.975; // 2,5% OFF
-    const preco4Pneus = (precoUnitario * 4) * 0.95;  // 5% OFF
+    const precoUnitario2Pneus = precoUnitario * 0.98; // 2,5% OFF na unidade
+    const precoUnitario4Pneus = precoUnitario * 0.96;  // 5,0% OFF na unidade
 
     // Cálculos para o Modo Interno
     const precoCusto = pneu.preco * 0.8;
@@ -107,7 +107,7 @@ function renderizarEstoque(pneus) {
         </div>
         <div class="card-footer">
           <div class="price-container">
-            <span class="price-label">À vista</span>
+            <span class="price-label">Valor por unidade</span>
             
             <!-- 1 Pneu -->
             <div class="price-row">
@@ -117,20 +117,20 @@ function renderizarEstoque(pneus) {
               <span class="price-value">${formatarPreco(precoUnitario)}</span>
             </div>
 
-            <!-- 2 Pneus -->
+            <!-- Kit 2 Pneus (Preço por unidade) -->
             <div class="price-row promo-row">
               <div class="icon-box">
                 <img src="imagens/pneu-2.svg" alt="2 Pneus" class="tire-icon-img">
               </div>
-              <span class="promo-price">${formatarPreco(preco2Pneus)}</span>
+              <span class="promo-price">${formatarPreco(precoUnitario2Pneus)}</span>
             </div>
 
-            <!-- 4 Pneus -->
+            <!-- Kit 4 Pneus (Preço por unidade) -->
             <div class="price-row promo-row">
               <div class="icon-box">
                 <img src="imagens/pneu-4.svg" alt="4 Pneus" class="tire-icon-img">
               </div>
-              <span class="promo-price">${formatarPreco(preco4Pneus)}</span>
+              <span class="promo-price">${formatarPreco(precoUnitario4Pneus)}</span>
             </div>
 
             ${elementoValoresInternos}

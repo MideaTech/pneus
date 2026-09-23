@@ -163,6 +163,6 @@ def converter_excel_para_json(caminho_excel, caminho_saida_json):
 
 if __name__ == "__main__":
     converter_excel_para_json(
-        caminho_excel="Tabela 9.xls",
+        caminho_excel="Tabela 69.xls",
         caminho_saida_json="dados.json",
     )
