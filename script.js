@@ -66,8 +66,8 @@ function renderizarEstoque(pneus) {
 
     // Cálculos dos preços unitários de cada kit (Atacado por unidade)
     const precoUnitario = pneu.preco;
-    const precoUnitario2Pneus = precoUnitario * 0.98; // 2,5% OFF na unidade
-    const precoUnitario4Pneus = precoUnitario * 0.96;  // 5,0% OFF na unidade
+    const precoUnitario2Pneus = precoUnitario * 0.985; // 1,5% OFF na unidade
+    const precoUnitario4Pneus = precoUnitario * 0.97;  // 3,0% OFF na unidade
 
     // Cálculos para o Modo Interno
     const precoCusto = pneu.preco * 0.8;
